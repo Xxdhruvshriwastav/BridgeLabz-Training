@@ -1,19 +1,17 @@
 public class EqualDistributionAndRemaing {
 
 public static void main (String [] args ) {
-
+// Assiging the variables value 
 int pen = 14;
 int student = 3;
 
-int equal_distribution = pen/student;
+// calculating theequalDistribution, remainingPen
+int equalDistribution = pen/student;
+int remainingPen = pen- equal_distribution* student;
 
-int remaining_pen = pen- equal_distribution* student;
-
-System.out.println("total equal_distribution is " 
-    + equal_distribution + "remaining_pen" + remaining_pen);
-
-
-}
+// printing the values 
+    System.out.println("total equal_distribution is "  + equalDistribution + "remaining_pen" + remainingPen);
 
 
+    }
 }
