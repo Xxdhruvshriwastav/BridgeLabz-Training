@@ -10,7 +10,7 @@
 
 		double heightINCentimeter = (feet * 12 + inches) * 2.54;
                 
-                // printing the values 	
+        // printing the values 	
 
 		System.out.println("Height in cm = " + heightINCentimeter); 
 
