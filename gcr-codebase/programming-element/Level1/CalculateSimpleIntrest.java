@@ -7,6 +7,7 @@ class CalculateSimpleIntrest{
     //  Calculating the simple intrest 
     double simpleIntrest = (principal * rate * time) / 100;
 
+    // printing the values
     System.out.println("simpleIntrest");
   }
 }
