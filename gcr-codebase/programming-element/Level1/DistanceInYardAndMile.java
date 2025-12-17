@@ -1,42 +1,37 @@
-        import java.util.Scanner;
+    import java.util.Scanner;
 
 	public class DistanceInYardAndMile{
 
 	public static void main (String [] args ) {
 
-		Scanner sc = new Scanner(System.in);
+	Scanner sc = new Scanner(System.in);
             
-                // taking user input of distance in feet
+     // taking user input of distance in feet
 
-                System.out.println("put the length in feet");
+     System.out.println("put the length in feet");
 
-		// taking Input from the user
+	// taking Input from the user
 
-                int distance = sc.nextInt();
+     int distance = sc.nextInt();
 
- 		// Calculating Yard distance 
+ 	// Calculating Yard distance 
 
-		double yardDistance = distance/3.0;
+	double yardDistance = distance/3.0;
   
   		 
-		// Calculating the miles distance 
-                double mileDistance = distance/5280.0;
+	// Calculating the miles distance 
+     double mileDistance = distance/5280.0;
    
-
+	// printing the Yard distance
 		
-                // printing the Yard distance
+	System.out.println(yardDistance);
 		
-		System.out.println(yardDistance);
-		
-		// printing the miles distance
+	// printing the miles distance
 
-                System.out.println(mileDistance);
+    System.out.println(mileDistance);
 
-		// closing the scanner object 
-		sc.close(); 
-                
-
-                
+	// closing the scanner object 
+		sc.close();               
 
 	}
 
