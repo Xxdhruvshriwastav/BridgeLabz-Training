@@ -8,6 +8,6 @@ class CalculateSimpleIntrest{
     double simpleIntrest = (principal * rate * time) / 100;
 
     // printing the values
-    System.out.println("simpleIntrest");
+    System.out.println(simpleIntrest);
   }
 }
