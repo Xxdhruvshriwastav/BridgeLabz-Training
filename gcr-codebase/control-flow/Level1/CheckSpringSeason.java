@@ -24,7 +24,7 @@ public class CheckSpringSeason {
 		
 		// cheking the Spring season
 
-		if ( 20 < date && date <30 && 3 < month && month <=5  ) {
+		if ( 20 < date || date <30 && 3 < month && month <=5  ) {
 
 			System.out.println("Spring Season ");
 
