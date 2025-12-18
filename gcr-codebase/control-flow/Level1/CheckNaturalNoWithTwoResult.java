@@ -15,15 +15,19 @@ public class CheckNaturalNoWithTwoResult {
 		int n = sc.nextInt();
 
 		int naturalNo = n * (n+1) / 2;
-		
-		System.out.println("Enter the natural no  ");
 
-           	int num = sc.nextInt();
+		int sum = 0;
+           	                
+                while(n >= 1) {
 
+		sum += n;
+		n--;
+	
+			}
 
 		// check wether it is natural no or not
 
-		if (num == naturalNo ) {
+		if (sum == naturalNo ) {
 		
                 System.out.println("This is natural no  ");
 
