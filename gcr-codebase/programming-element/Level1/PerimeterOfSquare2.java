@@ -1,21 +1,36 @@
         import java.util.Scanner;
 
-	public class PerimeterOfSquare2{
+	public class DistanceInYardAndMile{
 
 	public static void main (String [] args ) {
 
 		Scanner sc = new Scanner(System.in);
+            
+                // taking user input of distance in feet
+
+                System.out.println("put the length in feet");
 
 		// taking Input from the user
-                int perimeterOfSquare = sc.nextInt();
 
- 		// Athematic operation 
+                int distance = sc.nextInt();
 
-		int side = perimeterOfSquare/4;
+ 		// Calculating Yard distance 
 
-                // printing the perimeterOfSquare
+		double yardDistance = distance/3.0;
+  
+  		 
+		// Calculating the miles distance 
+                double mileDistance = distance/5280.0;
+   
+
 		
-		System.out.println("length of Square is  " + side);
+                // printing the Yard distance
+		
+		System.out.println(yardDistance);
+		
+		// printing the miles distance
+
+                System.out.println(mileDistance);
 
 		// closing the scanner object 
 		sc.close(); 

@@ -1,9 +1,13 @@
-        public class PerimeterOfSquare {
+        import java.util.Scanner;
+
+	public class PerimeterOfSquare11{
 
 	public static void main (String [] args ) {
 
-		// Assigning the value of the variable  
-		int perimeterOfSquare = 100;
+		Scanner sc = new Scanner(System.in);
+
+		// taking Input from the user
+                int perimeterOfSquare = sc.nextInt();
 
  		// Athematic operation 
 
@@ -11,7 +15,10 @@
 
                 // printing the perimeterOfSquare
 		
-		System.out.println("length of Square is  " + side); 
+		System.out.println("length of Square is  " + side);
+
+		// closing the scanner object 
+		sc.close(); 
                 
 
                 
