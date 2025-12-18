@@ -14,12 +14,16 @@ public class CountingNumbersUsing2 {
 		int sum =0;
 
 		
-		
+		// Adding logic 
+
+
 		while (true) {
                 
 		System.out.println("Enter the Number");
 		
 		int n = sc.nextInt();
+         
+                // If user add 0 or negative value program will be terminate
 
 		if (n <= 0) {
 
