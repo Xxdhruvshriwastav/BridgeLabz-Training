@@ -17,9 +17,9 @@ public class CheckNaturalNo {
 		int naturalNo = n * (n+1) / 2;
 
            	
-		if (n < 0 ) {
+		if ( n < 0 ) {
 		
-                System.out.println("Enter the no ");
+                System.out.println("Not natural no  ");
 
 		} else {
 			
