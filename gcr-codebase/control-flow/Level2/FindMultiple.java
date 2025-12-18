@@ -10,26 +10,24 @@ public class FindMultiple {
 
 		// Taking input from the user
 
-		System.out.println("Enter the Number");
+		System.out.println("Enter the power");
 		
-		int number = sc.nextInt();
+		int power = sc.nextInt();
 		
+		System.out.println("Enter the base");
 		
-		if ( number <= 100) {
+		int base = sc.nextInt();
 
-		for (int i =1 ; i <= number-1; i++ ) {
-                    
-		// find the grestest integer
-		
-		if (number % i == 0) {
-		
-		System.out.println(" The  number is multiple of " + i );
+               int value = 1;
 
-					}
 
-			}
+	        for (int i = 1; i <= power; i++ ) {
 
-		}
+		 value *= base;
+
+				}
+
+		System.out.println("The value is " + value);
                                 
 		// closing the Scanner object
 		sc.close();
