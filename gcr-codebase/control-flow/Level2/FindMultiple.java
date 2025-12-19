@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FindMultiple {
+public class FindMultipleUsingWhileLoopp {
 
 	public static void main(String[] args) {
 
@@ -10,24 +10,31 @@ public class FindMultiple {
 
 		// Taking input from the user
 
-		System.out.println("Enter the power");
+		System.out.println("Enter the number");
 		
-		int power = sc.nextInt();
+		int number = sc.nextInt();
 		
 		System.out.println("Enter the base");
 		
-		int base = sc.nextInt();
+		
+		
+		int i = 1;
 
-               int value = 1;
+		if (number > 0 && number < 100  ) {
 
+	        while (number > i) {
+		 
+		if ( number % i ) {
+		
+		
+		System.out.println("This no is divisible by " + i);
+		i++;
+					}
 
-	        for (int i = 1; i <= power; i++ ) {
+				          }
+					     }
 
-		 value *= base;
-
-				}
-
-		System.out.println("The value is " + value);
+		
                                 
 		// closing the Scanner object
 		sc.close();

@@ -8,39 +8,55 @@ import java.util.Scanner;
 
 		Scanner sc = new Scanner(System.in);
 
-		System.out.println(" Enter the size of an array ");
-		
-		int size = sc.nextInt();
+		  
 
 		// Creating an array object
 		
-		 int[] arr = new int [size];
-
-     		 for (int i = 0; i < size; i++) {
-              
-          	 System.out.println(" Enter the " + i + "th person age ");
-             
-
-		  arr[i] = sc.nextInt();
-
-		 }
-                 
-		for (int j = 0; j < arr.length; j++) {
-
-		if (arr[j] > 18) {
-
-		System.out.println( j + "th person is eligible for vote ");
-			
-	
-				}
-
-						}
+		 double[] arr = new double [10];
 		 
-		
-		
-		
-		
-                                
+		 
+		 // initializing the variables and assigning the values
+		 
+		 int i = 0;
+         double sum = 0;
+		 
+		 
+		 
+		 
+		 
+		 
+		// create a infite loop
+		 
+          while (true ) {
+			  
+			System.out.println(" Enter the number");
+            double num = sc.nextDouble();			
+			
+			// check the no is greter or size is must be equal or less than i
+			if ( num <= 0 || i >= arr.length) {
+					
+			break;
+				
+			} 
+			
+            arr[i] = num;
+
+			i++;
+			
+			
+					  
+		  }
+		  
+		  
+		for (int j =0; j < arr.length; j++ ) {
+			
+			sum += arr[j];
+		}  
+     		
+
+		// calculating the sum  
+        System.out.println(sum);		
+		                            
 		// closing the Scanner object
 		sc.close();
 
