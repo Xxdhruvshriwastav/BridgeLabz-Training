@@ -12,6 +12,7 @@ public class AnagramChecker {
         if (text1.length() != text2.length()) {
             return false;
         }
+        
 
         int[] freq1 = new int[256]; // Frequency array for text1
         int[] freq2 = new int[256]; // Frequency array for text2
