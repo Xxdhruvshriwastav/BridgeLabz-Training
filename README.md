@@ -30,3 +30,30 @@ git push origin main
 
 
 📌 Code Link  - https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice
+
+
+🟡 Day 2 — Git Practice & Basic Java Programs
+
+(Date: 17-Dec-2025)
+
+✔ Activities Completed
+
+Practiced full Git workflow:
+
+add → commit → push
+
+Understood version control and commits.
+
+Solved basic Java programs to understand:
+
+Syntax
+
+Structure
+
+Program execution flow
+
+Practiced adding & pushing Java files to GitHub.
+
+📌 Code Link -  https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice
+
+
