@@ -23,15 +23,14 @@ public class UnitConvertor {
         double feet2meters = 0.3048;
         return feet * feet2meters;
     }
-	
-	
-	// main method 
-	
-	public static void main(String[] args) {
 
-        System.out.println("10 Km to Miles: " + UnitConvertor.convertKmToMiles(10));
-        System.out.println("5 Miles to Km: " + UnitConvertor.convertMilesToKm(5));
-        System.out.println("3 Meters to Feet: " + UnitConvertor.convertMetersToFeet(3));
-        System.out.println("10 Feet to Meters: " + UnitConvertor.convertFeetToMeters(10));
+    // main method
+
+    public static void main(String[] args) {
+
+        System.out.println("10 Km to Miles: " + convertKmToMiles(10));
+        System.out.println("5 Miles to Km: " + convertMilesToKm(5));
+        System.out.println("3 Meters to Feet: " + convertMetersToFeet(3));
+        System.out.println("10 Feet to Meters: " + convertFeetToMeters(10));
     }
 }
