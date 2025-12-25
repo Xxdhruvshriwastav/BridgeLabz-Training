@@ -89,5 +89,44 @@ double totalDistance = distanceFromToVia + distanceViaToFinalCity;
 
 📌 Code Link - https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-element
 
+🔵 Day 4 — Java Methods Practice
+
+(Date: 20-Dec-2025)
+
+✔ Concepts Practiced
+
+User-Defined Methods
+
+Calling Methods Multiple Times
+
+Dynamic Methods (with parameters)
+
+Recursive Methods
+
+Static Methods
+
+Standard Library Methods
+
+java.lang.Math usage
+
+🧠 Best Programming Practices
+
+Use variables for inputs & results
+
+Meaningful method names
+
+Proper class & program structure
+
+Methods should:
+
+take input
+
+perform action
+
+return result
+
+📌 Code Link - https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods
+
+
 
 
