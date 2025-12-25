@@ -13,6 +13,7 @@ public class IllegalArgumentDemo {
             System.out.println("IllegalArgumentException handled");
         }
     }
+    
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
