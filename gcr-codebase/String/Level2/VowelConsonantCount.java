@@ -14,6 +14,7 @@ public class VowelConsonantCount {
         }
         return "Not a Letter";
     }
+    
 
     public static int[] countVC(String text) {
 
