@@ -28,4 +28,5 @@ public class StringLengthWithoutLength {
 
         sc.close();
     }
+    
 }
