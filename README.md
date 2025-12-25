@@ -128,5 +128,41 @@ return result
 📌 Code Link - https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods
 
 
+🟣 Day 5 — Java Strings & Exceptions
 
+(Date: 22-Dec-2025)
+
+✔ Concepts Covered
+
+Creating Strings
+
+String Input Handling
+
+Escape Sequences (\n, \t, etc.)
+
+String Arrays
+
+String as Method Parameters
+
+String Class Built-in Methods
+
+ASCII Character Codes
+
+Java Exceptions
+
+Exception Hierarchy
+
+Checked & Unchecked Exceptions
+
+Runtime Exceptions
+
+🧠 Best Practices
+
+Use methods (avoid coding everything in main())
+
+Proper naming conventions
+
+Exception handling wherever possible
+
+📌 Code Link - 
 
