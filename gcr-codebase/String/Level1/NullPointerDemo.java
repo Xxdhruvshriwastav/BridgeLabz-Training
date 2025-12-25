@@ -13,6 +13,7 @@ public class NullPointerDemo {
             System.out.println("NullPointerException handled");
         }
     }
+    
 
     public static void main(String[] args) {
         // generateException(); // Uncomment to see abrupt stop
