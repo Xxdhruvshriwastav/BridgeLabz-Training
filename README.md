@@ -57,3 +57,37 @@ Practiced adding & pushing Java files to GitHub.
 📌 Code Link -  https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice
 
 
+🟠 Day 3 — Programming Elements in Java
+
+(Date: 18-Dec-2025)
+
+✔ Concepts Covered
+
+Variables & Data Types
+
+Operators
+
+User Input & Output
+
+Operator Precedence
+
+Type Conversion
+
+Arithmetic Operations
+
+🧠 Practice Guidelines
+
+Use variables instead of hard-coding values
+
+Proper class & program naming
+
+Follow indentation & naming conventions
+
+String name = "Eric";
+double height = input.nextDouble();
+double totalDistance = distanceFromToVia + distanceViaToFinalCity;
+
+📌 Code Link - https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-element
+
+
+
