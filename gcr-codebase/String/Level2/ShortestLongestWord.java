@@ -26,4 +26,5 @@ public class ShortestLongestWord {
         System.out.println("Shortest Length = " + result[0]);
         System.out.println("Longest Length = " + result[1]);
     }
+    
 }
