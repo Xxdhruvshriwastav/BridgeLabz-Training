@@ -11,6 +11,7 @@ public class ArrayIndexOutOfBoundsDemo {
             System.out.println("ArrayIndexOutOfBoundsException handled");
         }
     }
+    
 
     public static void main(String[] args) {
         String[] names = { "A", "B", "C" };
