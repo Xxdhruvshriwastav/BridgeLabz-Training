@@ -30,4 +30,5 @@ public class UppercaseDemo {
 
         sc.close();
     }
+    
 }
