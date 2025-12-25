@@ -12,6 +12,7 @@ public class WordLength2D {
             return c - 1;
         }
     }
+    
 
     public static String[][] wordWithLength(String[] words) {
         String[][] result = new String[words.length][2];
