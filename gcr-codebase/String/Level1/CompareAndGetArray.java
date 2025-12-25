@@ -13,6 +13,7 @@ public class CompareAndGetArray {
 
         return chars;
     }
+    
 
     // Method to compare two char arrays
     public static boolean compareCharArrays(char[] arr1, char[] arr2) {
