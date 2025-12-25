@@ -33,7 +33,7 @@ public class VotingEligibility {
     // Method to display the 2D array in tabular format
     public static void displayResult(String[][] data) {
         System.out.println("Student\tAge\tVoting Eligibility");
-        System.out.println("--------------------------------");
+       
         for (int i = 0; i < data.length; i++) {
             System.out.println((i + 1) + "\t" + data[i][0] + "\t" + data[i][1]);
         }
