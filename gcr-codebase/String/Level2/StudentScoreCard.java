@@ -13,6 +13,7 @@ public class StudentScoreCard {
         return pcm;
     }
 
+    
     // Method to calculate total, average, percentage
     public static double[][] calculateScores(int[][] pcm) {
 
