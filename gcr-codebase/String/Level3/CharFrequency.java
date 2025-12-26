@@ -49,3 +49,4 @@ public class CharFrequency {
         sc.close();
     }
 }
+
