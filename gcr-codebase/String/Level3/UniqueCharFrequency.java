@@ -19,6 +19,7 @@ public class UniqueCharFrequency {
                     break;
                 }
             }
+            
 
             if (isUnique) {
                 temp[count] = ch;
