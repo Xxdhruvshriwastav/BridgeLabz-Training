@@ -15,6 +15,7 @@ public class CalendarDisplay {
         return (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
     }
 
+    
     // Method to get number of days in a month
     public static int getDaysInMonth(int month, int year) {
         if (month == 2) { // February
