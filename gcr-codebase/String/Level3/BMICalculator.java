@@ -33,6 +33,7 @@ public class BMICalculator {
         return result;
     }
 
+    
     // Method to display the results in tabular format
     public static void displayResults(String[][] data) {
         System.out.println("Person\tWeight(kg)\tHeight(cm)\tBMI\t\tStatus");
