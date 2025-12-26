@@ -14,6 +14,7 @@ public class UniqueCharacters {
         }
         return length;
     }
+    
 
     // Find unique characters
     public static char[] uniqueCharacters(String text) {
