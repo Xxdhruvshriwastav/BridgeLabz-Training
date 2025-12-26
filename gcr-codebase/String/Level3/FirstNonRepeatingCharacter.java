@@ -16,6 +16,7 @@ public class FirstNonRepeatingCharacter {
         return '\0'; // None
     }
 
+    
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a string: ");
