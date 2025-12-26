@@ -21,6 +21,7 @@ public class DeckOfCards {
 
         return deck;
     }
+    
 
     // Method to shuffle the deck
     public static void shuffleDeck(String[] deck) {
