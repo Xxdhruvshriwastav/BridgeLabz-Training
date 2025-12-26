@@ -30,6 +30,7 @@ public class CharFrequencyNested {
                 uniqueCount++;
         }
 
+        
         // Create 1D String array to store characters and their frequencies
         String[] result = new String[uniqueCount];
         int index = 0;
