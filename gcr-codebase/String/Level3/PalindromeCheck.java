@@ -13,6 +13,7 @@ public class PalindromeCheck {
         }
         return true;
     }
+    
 
     // Logic 2: Recursive
     public static boolean isPalindromeRecursive(String text, int start, int end) {
