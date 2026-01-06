@@ -166,4 +166,170 @@ Exception handling wherever possible
 
 📌 Code Link - https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/String
 
+🟢 Day 6 — Scenario-Based Core Java Practice (20 Logical Problems)
 
+(Date: 23–30 Dec 2025)
+
+✔ Type of Problems Practiced
+
+Basic Input / Output
+
+If-Else & Nested Conditions
+
+Switch Case
+
+For / While / Do-While Loops
+
+Break & Continue
+
+Arrays & Iteration
+
+Arithmetic & Logical Operations
+
+✔ Nature of Questions
+
+Real-life small logic problems
+
+NO OOPS concepts
+
+NO inheritance / abstraction
+
+Only Core Java fundamentals
+
+✔ Examples of Scenario Problems
+
+Coffee Shop Billing Program
+
+BMI Calculator
+
+Metro Smart Card Fare Deduction
+
+Library Fine Calculator
+
+Online Quiz Score Counter
+
+Movie Ticket Booking Menu
+
+Bus Route Distance Tracker
+
+Festival Lucky Draw Logic
+
+Parking Lot Entry Counter
+
+Number Guessing Game
+
+Temperature Recorder
+
+Fitness Activity Tracker
+
+Student Attendance Counter
+
+Phone Recharge Offers
+
+Digital Clock Simulation
+
+Currency Exchange Converter
+
+Train Reservation Queue
+
+Shopping Discount Calculator
+
+Weekly Push-Ups Tracker
+
+School Result Generator
+
+✔ Learning Focus
+
+Problem reading & breakdown
+
+Writing clean conditional logic
+
+Proper loop selection
+
+Meaningful variable names
+
+User-driven input handling
+
+Handled edge cases such as:
+
+invalid values
+
+loop termination
+
+boundary conditions
+
+🧠 Outcome
+
+Strengthened logical thinking
+
+Built confidence in:
+
+loops
+
+conditions
+
+arrays
+
+switch flow
+
+Prepared base for DSA & OOPS
+
+📌 Scenario-Based Core Java Code Link
+https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/scenario-based
+
+🟣 Day 7 — LeetCode & Logical Problem Solving (Beginner Level)
+
+(Date: Ongoing — Started 01-Jan-2026)
+
+✔ Problem Categories Practiced
+
+Basic Array Problems
+
+Searching Problems
+
+Mathematical Logic Problems
+
+String Handling Problems
+
+Dry-Run & Trace-Execution Exercises
+
+✔ Sample Problems Solved
+
+Find largest / smallest number
+
+Sum & average of elements
+
+Reverse an array
+
+Find missing number
+
+Count occurrences of elements
+
+Palindrome check
+
+Factorial & Fibonacci logic
+
+Odd / even separation
+
+Simple pattern problems
+
+Linear & Binary Search
+
+✔ Learning Outcomes
+
+Improved logical breakdown
+
+Wrote reusable methods
+
+Avoided hard-coded values
+
+Practiced:
+
+edge case handling
+
+index safety
+
+time-complexity thinking
+
+📌 LeetCode / DSA Practice Code Link
+https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase
