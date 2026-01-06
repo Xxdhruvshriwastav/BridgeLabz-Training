@@ -1,4 +1,4 @@
-package com.day1.ewalletapp;
+package day2;
 
 public class PersonalWallet extends Wallet implements Transferrable{
 	

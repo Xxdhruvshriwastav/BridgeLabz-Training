@@ -1,4 +1,4 @@
-package com.day1.ewalletapp;
+package day2;
 import java.util.*;
 
 public abstract class Wallet {

@@ -1,4 +1,4 @@
-package com.day1.ewalletapp;
+package day2;
 
 public class BusinessWallet extends Wallet implements Transferrable{
 	private double taxRate = 0.02; // 2% business tax

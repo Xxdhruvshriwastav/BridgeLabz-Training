@@ -1,4 +1,4 @@
-package com.day1.ewalletapp;
+package day2;
 
 public class User {
 	private String name;
