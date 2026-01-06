@@ -1,4 +1,4 @@
-package com.day3.campusconnect;
+package Day3;
 import java.util.*;
 
 public class Course {

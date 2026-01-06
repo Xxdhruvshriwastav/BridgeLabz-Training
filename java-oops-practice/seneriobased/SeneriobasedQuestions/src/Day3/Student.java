@@ -1,4 +1,4 @@
-package com.day3.campusconnect;
+package Day3;
 
 public class Student extends Person{
 	private String grade;
