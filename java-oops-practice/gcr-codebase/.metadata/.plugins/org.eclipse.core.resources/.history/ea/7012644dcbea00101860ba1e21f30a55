@@ -1,0 +1,23 @@
+package com.oops.encapsulation;
+
+class Bike extends Vehicle implements Insurable {
+
+    public Bike(String num, double rate) {
+        super(num, "Bike", rate);
+    }
+
+    @Override
+    public double calculateRentalCost(int days) {
+        return getRentalRate() * days;
+    }
+
+    @Override
+    public double calculateInsurance() {
+        return 800;
+    }
+
+    @Override
+    public String getInsuranceDetails() {
+        return "Bike Insurance Applied";
+    }
+}

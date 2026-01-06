@@ -1,0 +1,32 @@
+package day1;
+
+public class Patient {
+
+    private String name;
+    private int id;
+    private String medicalHistory;
+
+    // Constructor with 3 parameters
+    public Patient(String name, int id, String medicalHistory) {
+        this.name = name;
+        this.id = id;
+        this.medicalHistory = medicalHistory;
+    }
+
+    // Overloaded constructor (for normal patients)
+    public Patient(String name, int id) {
+        this(name, id, "Not Available");
+    }
+
+    public String getMedicalHistory() {
+        return medicalHistory;
+    }
+
+    public String getSummary() {
+        return "Patient " + name + " | ID " + id;
+    }
+
+    public void displayInfo() {
+        System.out.println(getSummary());
+    }
+}
