@@ -1,0 +1,25 @@
+package com.oops.encapsulation;
+
+class FullTimeEmployee extends Employee implements Department {
+
+    private String department;
+
+    public FullTimeEmployee(int id, String name, double salary) {
+        super(id, name, salary);
+    }
+
+    @Override
+    public double calculateSalary() {
+        return getBaseSalary();
+    }
+
+    @Override
+    public void assignDepartment(String deptName) {
+        department = deptName;
+    }
+
+    @Override
+    public String getDepartmentDetails() {
+        return "Department: " + department;
+    }
+}
