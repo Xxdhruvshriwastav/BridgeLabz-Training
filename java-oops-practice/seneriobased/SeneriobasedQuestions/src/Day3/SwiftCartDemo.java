@@ -1,4 +1,4 @@
-package com.day3.swiftcart;
+package Day3;
 
 public class SwiftCartDemo {
 

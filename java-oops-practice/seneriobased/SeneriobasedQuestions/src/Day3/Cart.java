@@ -1,4 +1,4 @@
-package com.day3.swiftcart;
+package Day3;
 import java.util.*;
 
 public class Cart implements ICheckout{

@@ -1,4 +1,4 @@
-package com.day3.swiftcart;
+package Day3;
 
 public abstract class Product {
 	protected String name;
