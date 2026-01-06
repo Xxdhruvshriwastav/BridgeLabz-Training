@@ -1,4 +1,4 @@
-package com.bridgelabz.oops.objectmodeling;
+package com.oops.objectmodeling;
 
 import java.util.ArrayList;
 
