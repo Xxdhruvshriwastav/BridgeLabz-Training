@@ -1,0 +1,19 @@
+package com.oops.encapsulation;
+
+class LibraryMain {
+    public static void main(String[] args) {
+
+        LibraryItem items[] = {
+                new Book("B101", "Java Basics", "James Gosling"),
+                new Magazine("M201", "Tech World", "Editor Team"),
+                new DVD("D301", "Inception", "Christopher Nolan")
+        };
+
+        for (LibraryItem i : items) {
+            i.getItemDetails();
+            System.out.println("Loan Duration: " + i.getLoanDuration() + " days");
+            System.out.println("-------------------");
+        }
+        
+    }
+}
