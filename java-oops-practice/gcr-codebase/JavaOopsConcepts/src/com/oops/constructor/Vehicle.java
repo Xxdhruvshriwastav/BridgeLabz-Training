@@ -1,4 +1,4 @@
-package com.bridgelabz.oops.constructor.levelone;
+package com.oops.constructor;
 
 public class Vehicle {
 	
