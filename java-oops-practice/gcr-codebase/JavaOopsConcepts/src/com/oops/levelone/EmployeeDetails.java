@@ -1,4 +1,4 @@
-package com.bridgelabz.oops.levelone;
+package com.oops.levelone;
 
 public class EmployeeDetails {
 
