@@ -1,4 +1,4 @@
-package com.day1.universitycourseenrollment;
+package day2;
 
 public abstract class Student {
 	
