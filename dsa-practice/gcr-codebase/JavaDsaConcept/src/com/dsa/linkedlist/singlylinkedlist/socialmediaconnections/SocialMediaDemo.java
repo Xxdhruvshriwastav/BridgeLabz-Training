@@ -1,4 +1,4 @@
-package com.singlylinkedlist.socialmediaconnections;
+package com.dsa.linkedlist.singlylinkedlist.socialmediaconnections;
 
 public class SocialMediaDemo {
 
