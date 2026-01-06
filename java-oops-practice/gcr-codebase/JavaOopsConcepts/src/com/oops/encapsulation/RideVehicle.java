@@ -1,0 +1,34 @@
+package com.oops.encapsulation;
+
+abstract class RideVehicle {
+
+    private String vehicleId;
+    private String driverName;
+    private double ratePerKm;
+
+    public RideVehicle(String vehicleId, String driverName, double ratePerKm) {
+        this.vehicleId = vehicleId;
+        this.driverName = driverName;
+        this.ratePerKm = ratePerKm;
+    }
+
+    public String getVehicleId() {
+        return vehicleId;
+    }
+
+    public String getDriverName() {
+        return driverName;
+    }
+
+    public double getRatePerKm() {
+        return ratePerKm;
+    }
+
+    public void getVehicleDetails() {
+        System.out.println("Vehicle ID: " + vehicleId);
+        System.out.println("Driver: " + driverName);
+        System.out.println("Rate/km: " + ratePerKm);
+    }
+
+    public abstract double calculateFare(double distance);
+}
