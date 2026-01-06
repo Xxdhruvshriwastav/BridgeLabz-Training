@@ -1,4 +1,4 @@
-package com.day4.edumentor;
+package day4;
 import java.util.*;
 
 public class Quiz {
