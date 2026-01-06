@@ -3,7 +3,7 @@ package day4;
 public class Instructor extends User{
 	
 	public Instructor(String name, String email, int userId) {
-		super(name, email, userId);
+		super(name, email);
 	}
 	
 	public void addQuestion(Quiz quiz, String question) {

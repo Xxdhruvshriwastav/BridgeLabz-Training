@@ -7,7 +7,7 @@ public class Learner extends User implements ICertifiable{
 	List<Quiz> quizzes;
 	
 	public Learner(String name, String email, int userId, boolean isFullTime) {
-		super(name, email, userId);
+		super(name, email);
 		this.isFullTime = isFullTime;
 		quizzes = new ArrayList<>();
 	}

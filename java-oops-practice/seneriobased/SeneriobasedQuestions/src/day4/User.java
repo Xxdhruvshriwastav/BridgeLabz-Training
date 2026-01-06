@@ -1,15 +1,15 @@
 package day4;
 
 public class User {
-	protected String name;
-	private String email;
-	private int userId;
-	
-	public User(String name, String email, int userId) {
-		this.name = name;
-		this.email = email;
-		this.userId = userId;
-	}
-	
-	
+	 protected String name;
+	 private String email; // imp data
+
+	 public User(String name, String email) {
+		 this.name = name;
+		 this.email = email;
+	 }
+
+	 public String getName() {
+		 return name;
+	 }
 }
