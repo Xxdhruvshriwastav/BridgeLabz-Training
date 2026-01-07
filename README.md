@@ -10,10 +10,13 @@ Created GitHub repository
 
 Created core-java-practice branch
 
+
+
 Repository Structure
 
 C:.
 ├── gcr-codebase
+
 │   ├── arrays
 │   ├── control-flows
 │   ├── extras
@@ -24,6 +27,7 @@ C:.
 ├── leetcode-codebase
 ├── scenario-based-codebase
 └── README.md
+
 
 
 
@@ -352,21 +356,3 @@ FitTrack
 
 EduMentor
 
-✅ DSA Focus Areas
-
-Sorting Deep-Dive
-
-Searching Algorithms
-
-Real-world problem solving
-
-Implementation & Optimization
-
-🏁 Overall Outcomes
-
-✔ Strong foundation in Core Java
-✔ Practical OOPS implementation
-✔ Hands-on Scenario-Based Programming
-✔ Structured DSA learning
-✔ Continuous LeetCode practice
-✔ Professional Git & GitHub workflow experience
