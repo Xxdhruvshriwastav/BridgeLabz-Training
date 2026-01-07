@@ -1,3 +1,0 @@
-INDEX VERSION 1.134+C:\Users\rudra\Desktop\Java Programming workspace\java-oops-practice\seneriobased\.metadata\.plugins\org.eclipse.jdt.core
-2861214183.index
-1865797976.index
