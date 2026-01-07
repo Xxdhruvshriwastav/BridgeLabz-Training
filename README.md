@@ -1,235 +1,424 @@
-📅 Day 1 – Git and GitHub Setup
-Date: 15-Dec-2025
+🗓 Week 1 — Git, GitHub & Java Programming Fundamentals
+✅ Day 1 — Git & GitHub Setup
+
+📅 Date: 15-Dec-2025
+
+Activities Performed
 
 Installed and configured Git
+
 Set up GitHub repository
+
 Created core-java-practice branch
-📂 Repository Structure
-C:.
-├── gcr-codebase
-│   ├── arrays
-│   ├── control-flows
-│   ├── extras
-│   ├── methods
-│   ├── program-prerequisites
-│   ├── programming-elements
-│   └── strings
-├── leetcode-codebase
-├── scenario-based-codebase
-└── README.md
 
-Learned basic git commands like (git init, git status, git commit -m "", git add, git push
-Successfully pushed files to the remote repository
-🗓 Day 2 – Git Practice & Basic Java Programs
-Date: 16-Dec-2025
+Repository Structure
 
-Practiced Git workflow to understand commits and version control.
-Solved very basic Java programs to understand syntax and structure.
-Practiced adding, committing, and pushing Java files to GitHub.
-🔗 Code Link:
+gcr-codebase/
+  arrays/
+  control-flows/
+  extras/
+  methods/
+  program-prerequisites/
+  programming-elements/
+  strings/
+leetcode-codebase/
+scenario-based-codebase/
+README.md
+
+
+Git Commands Practiced
+
+git init
+
+git status
+
+git add
+
+git commit
+
+git push
+
+Outcome
+
+Successfully pushed files to remote repository
+
+✅ Day 2 — Git Practice & Basic Java Programs
+
+📅 Date: 16-Dec-2025
+
+Activities Performed
+
+Practiced Git workflow
+
+Understood commits & version control
+
+Solved basic Java programs
+
+Practiced add → commit → push workflow
+
+Code Link
 👉 Day 2 – Basic Java Programs
-
 https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Program-prerequisites
 
-🗓 Day 3 – Programming Elements in Java
-Date: 17-Dec-2025
+✅ Day 3 — Programming Elements in Java
 
-Studied Java programming elements:
-Variables and data types
+📅 Date: 17-Dec-2025
+
+Topics Covered
+
+Variables & Data Types
+
 Operators
-User input and output
-Solved practice problems based on programming elements.
-Committed and pushed solutions to the repository.
-🔗 Code Link:
+
+User Input & Output
+
+Activities
+
+Solved programming element exercises
+
+Committed and pushed solutions
+
+Code Link
 👉 Day 3 – Programming Elements
 
-🗓 Day 4 – Control Flow & Logical Constructs
-Date: 18-Dec-2025
+✅ Day 4 — Control Flow & Logical Constructs
 
-Studied logical constructs in Java:
-if, if-else
-switch statement
+📅 Date: 18-Dec-2025
+
+Topics Covered
+
+if / if-else / switch
+
 ternary operator
-Practiced iteration statements:
-for loop
-while loop
-do-while loop
-Used break and continue statements.
-Solved logical problems such as:
+
+loops (for, while, do-while)
+
+break & continue
+
+Problems Solved
+
 Factorial
-Prime number check
-Committed and pushed solutions to the repository.
-🔗 Code Link:
+
+Prime Number Check
+
+Outcome
+
+Committed and pushed solutions
+
+Code Link
 👉 Day 4 – Control Flow
 
-🗓 Day 5 – Arrays & Basic Problem Solving
-Date: 19-Dec-2025
+✅ Day 5 — Arrays & Basic Problem Solving
 
-Studied arrays in Java:
+📅 Date: 19-Dec-2025
+
+Topics Covered
+
 Single-dimensional arrays
+
 Multi-dimensional arrays
-Practiced array traversal and operations.
-Solved problems related to:
-Finding missing elements
-Basic array-based logic
-Strengthened logical thinking using array problems.
-Committed and pushed solutions to the repository.
-🔗 Code Link:
+
+Array traversal & operations
+
+Problems Solved
+
+Missing elements
+
+Array logic problems
+
+Outcome
+
+Improved logical thinking using arrays
+
+Pushed solutions to repository
+
+Code Link
 👉 Day 5 – Arrays
 
-🗓 Day 6 –Concepts & problems on Methods
-**Date: 20-Dec-2025
+✅ Day 6 — Concepts & Problems on Methods
 
-Studied Java methods:
+📅 Date: 20-Dec-2025
+
+Topics Covered
+
 Method declaration
+
 Method calling
+
 Parameter passing
-Practiced reusable logic using methods.
-Committed and pushed solutions to the repository.
-🔗 Code Link:
+
+Activities
+
+Implemented reusable logic using methods
+
+Solved method-based problems
+
+Outcome
+
+Committed & pushed solutions
+
+Code Link
 👉 Day 6 – Problems on Methods
 
-Week2 : Worked on Strings and Extras Problems
-📅 Day 1 – Strings Concepts & Problems
-Date: 22-Dec-2025
+🗓 Week 2 — Strings & Extras Problems
+✅ Day 1 — String Concepts & Problems
 
-Learn the string concepts
+📅 Date: 22-Dec-2025
 
-Learn about built in methods for strings
-Why string is immutable
+Topics Covered
+
+String concepts
+
+Built-in string methods
+
+String immutability
+
 Exception handling
-Solve Problems at three levels
 
-Level1 Basic problems to create own method resemebles built in method
-Level2 Learn how to print data in tabular format
-Level2 Solve random values generated problems
-🔗 Code Link:
-👉Day 1 - String problems
+Problem Levels
 
-📅 Day 2 – Solve Extras Problems
-Date: 23-Dec-2025
+Level-1 → Implemented custom methods
 
-Extras Problems on String
+Level-2 → Printed data in tabular format
 
-Work on concepts like frequency,substring,anagram etc . about string
-Extras Problems on Built in function
+Level-3 → Random value problems
 
-Ex. includes time packages functions like LocalDate.now(), LocalTime.now() etc.
-Code Link:
-👉String Extras solved , 👉Buiilt function extras Solved
-Notes source:
-👉Built in functions 1 , 👉Built in functions 2
+Code Link
+👉 Day 1 – String Problems
 
-📅 Day 3 - Scenario Based
-Date: 24-Dec-2025 -Solved Two Scenario-based Problems
+✅ Day 2 — Extra String & Built-in Function Problems
 
-🔗 Code Link:
-👉Day-1 Coffee Counyter 👉Day-1 BMI Fitness Tracker
+📅 Date: 23-Dec-2025
 
---- Leetcode Practice 1 Date: 24-Dec-2025
+Topics Covered
 
-Solved Below problems on leetcode
+Frequency
+
+Substring
+
+Anagram
+
+Built-in functions
+
+Java Time API Used
+
+LocalDate.now()
+
+LocalTime.now()
+
+Code Links
+👉 String Extras Solved
+👉 Built-in Function Extras Solved
+
+Notes
+👉 Built-in Functions – 1
+👉 Built-in Functions – 2
+
+✅ Day 3 — Scenario-Based Problems
+
+📅 Date: 24-Dec-2025
+
+Problems Solved
+
+Coffee Counter
+
+BMI Fitness Tracker
+
+Code Link
+👉 Day-1 Scenario Problems
+
+✅ LeetCode Practice — Set 1
+
+📅 Date: 24-Dec-2025
+
+Problems Solved
+
 Two Sum
+
 Remove Elements
+
 Search Insert Position
-Container with most water
-Remove duplicates
-🔗 Code Link:
-👉Code of above Problems
-📅 Day 5 - Scenario Based
-Date: 26-Dec-2025 -Solved Three Scenario-based Problems
 
-🔗 Code Link:
-👉Day-2 Election Booth Manager 👉Day-2 Metro Smart Card 👉Day-2 Result Generator
+Container With Most Water
 
---- Leetcode Strings Day-1 Date: 26-Dec-2025
+Remove Duplicates
 
-Solved Below problems on leetcode
+Code Link
+👉 LeetCode Practice 1
+
+✅ Day 5 — Scenario-Based Problems
+
+📅 Date: 26-Dec-2025
+
+Problems Solved
+
+Election Booth Manager
+
+Metro Smart Card
+
+Result Generator
+
+Code Link
+👉 Day-2 Scenario Problems
+
+✅ LeetCode — Strings Day-1
+
+📅 Date: 26-Dec-2025
+
+Problems Solved
+
 First Occurrence in String
+
 Roman to Integer
+
 Add Binary
-Reverse Word in String
+
+Reverse Words in String
+
 Valid Anagram
-🔗 Code Link:
-👉Code of above Problems
-📅 Day 6 - Leetcode-codebase
---- Leetcode Strings Day-2 Date: 27-Dec-2025
 
-Solved Below problems on leetcode
+Code Link
+👉 String Problems — Set 1
+
+✅ LeetCode — Strings Day-2
+
+📅 Date: 27-Dec-2025
+
+Problems Solved
+
 Generate Parenthesis
+
 Roman Conversion
+
 Longest Substring
+
 String to Integer
+
 Valid Parenthesis
-🔗 Code Link:
-👉Code of above Problems
---- Leetcode Strings Day-3 Date: 27-Dec-2025
 
-Solved Below problems on leetcode
+✅ LeetCode — Strings Day-3
+
+📅 Date: 27-Dec-2025
+
+Problems Solved
+
 Basic Calculator
-Basic Calculator Two
-Excel Sheet
+
+Basic Calculator II
+
+Excel Sheet Conversion
+
 Isomorphic Strings
-Anagram valid
-🔗 Code Link:
-👉Code of above Problems
-📅 Day 7 - Leetcode-codebase
---- Leetcode Arrays Day-2 Date: 28-Dec-2025
 
-Solved Below problems on leetcode
+Valid Anagram
+
+✅ LeetCode — Arrays Day-2
+
+📅 Date: 28-Dec-2025
+
+Problems Solved
+
 Closest Three Sum
+
 Image Rotate
+
 Max Subarray
+
 Three Sum
-In Sorted matrix count negative
-🔗 Code Link:
-👉Code of above Problems
-Week3 : Worked on Scenario Based and Leetcode-codebase
-📅 Day 1 - Solved Three Scenario-based Problems and Leetcode-codebase
-Date: 29-Dec-2025 -Solved Five Scenario-based Problems
 
-🔗 Code Link:
-👉Day-1 Discount 👉Day-1 Number Guessing 👉Day-1 Parking lot 👉Day-1 Phone Recharge Simulator 👉Day-1 School Bus Attendance System
+Count Negatives in Matrix
 
---- Leetcode Strings Day-1 Date: 29-Dec-2025
+🗓 Week 3 — Scenario-Based & LeetCode Practice
+✅ Day 1 — Scenario-Based + LeetCode Practice
 
-Solved Below problems on leetcode
-Find First and Last Element
+📅 Date: 29-Dec-2025
+
+Scenario Problems Solved
+
+Discount Calculator
+
+Number Guessing Game
+
+Parking Lot
+
+Phone Recharge Simulator
+
+School Bus Attendance System
+
+LeetCode Problems Solved
+
+Find First & Last Element
+
 Plus One
+
 Search in Rotated Sorted Array
+
 Spiral Matrix
-Spiral Matrix 2
-🔗 Code Link:
-👉Code of above Problems
-📅 Day 2 - Scenario Based and Leetcode based
---- Scenario based practice-4 Date: 30-Dec-2025 -Solved Five Scenario-based Problems
 
-🔗 Code Link:
-👉Day-4 Temperature Logger 👉Day-4 Train Booking System 👉Day-4 Sandeep's Fitness Tracker 👉Day-4 Movie Ticket Booking 👉Day-4 LibraryFineCalculator
+Spiral Matrix II
 
---- Leetcode Practice practice 7 Date: 30-Dec-2025
+Code Link
+👉 Day-1 Scenario & LeetCode
 
-Solved Below problems on leetcode
+✅ Day 2 — Scenario-Based + LeetCode Practice
+
+📅 Date: 30-Dec-2025
+
+Scenario Problems Solved
+
+Temperature Logger
+
+Train Booking System
+
+Fitness Tracker
+
+Movie Ticket Booking
+
+Library Fine Calculator
+
+LeetCode Problems Solved
+
 Reverse String
+
 Word Pattern
+
 Fizz Buzz
-First Unique Character in a String
-Reverse Vowels of a String
-🔗 Code Link:
-👉Code of above Problems
-📅 Day 3 - Scenario Based (END) and Leetcode based
---- Scenario based practice-5 Date: 31-Dec-2025 -Solved Five Scenario-based Problems
 
-🔗 Code Link:
-👉Day-5 Bus Route Distance Tracker 👉Day-5 Currency Exchange 👉Day-5 Digital Watch 👉Day-5 Lucky Draw 👉Day-5 Quiz Application
+First Unique Character
 
---- Leetcode Practice practice 8 Date: 31-Dec-2025
+Reverse Vowels
 
-Solved Below problems on leetcode
-Best Time to Buy and Sell Stock
+Code Link
+👉 Day-2 Scenario & LeetCode
+
+✅ Day 3 — Final Scenario Set + LeetCode Practice
+
+📅 Date: 31-Dec-2025
+
+Scenario Problems Solved
+
+Bus Route Distance Tracker
+
+Currency Exchange
+
+Digital Watch
+
+Lucky Draw
+
+Quiz Application
+
+LeetCode Problems Solved
+
+Best Time to Buy & Sell Stock
+
 Single Number
+
 Majority Element
+
 Contains Duplicate
+
 Contains Duplicate II
-🔗 Code Link:
-👉Code of above Problems
+
+Code Link
+👉 Day-3 Scenario & LeetCode
+
