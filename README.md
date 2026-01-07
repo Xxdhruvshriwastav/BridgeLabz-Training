@@ -1,11 +1,17 @@
-Week 1: Git, GitHub & Java Programming Fundamentals
-📅 Day 1 – Git and GitHub Setup
-Date: 15-Dec-2025
+✅ Day 1 — Git & GitHub Setup
+
+📅 15-Dec-2025
+
+Activities Performed
 
 Installed and configured Git
-Set up GitHub repository
+
+Created GitHub repository
+
 Created core-java-practice branch
-📂 Repository Structure
+
+Repository Structure
+
 C:.
 ├── gcr-codebase
 │   ├── arrays
@@ -19,358 +25,348 @@ C:.
 ├── scenario-based-codebase
 └── README.md
 
-Learned basic git commands like (git init, git status, git commit -m "", git add, git push
-Successfully pushed files to the remote repository
-🗓 Day 2 – Git Practice & Basic Java Programs
-Date: 16-Dec-2025
 
-Practiced Git workflow to understand commits and version control.
-Solved very basic Java programs to understand syntax and structure.
-Practiced adding, committing, and pushing Java files to GitHub.
-🔗 Code Link:
-👉 Day 2 – Basic Java Programs
 
-https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Program-prerequisites
+Git Commands Practiced
 
-🗓 Day 3 – Programming Elements in Java
-Date: 17-Dec-2025
+git init
 
-Studied Java programming elements:
-Variables and data types
+git status
+
+git add
+
+git commit
+
+git push
+
+✅ Day 2 — Git Practice & Basic Java Programs
+
+📅 16-Dec-2025
+
+Activities Performed
+
+Practiced Git workflow
+
+Performed add–commit–push cycle
+
+Solved basic Java programs
+
+Code Link
+
+Day 2 — Basic Java Programs
+
+✅ Day 3 — Programming Elements in Java
+
+📅 17-Dec-2025
+
+Topics Covered
+
+Variables and Data Types
+
 Operators
-User input and output
-Solved practice problems based on programming elements.
-Committed and pushed solutions to the repository.
-🔗 Code Link:
-👉 Day 3 – Programming Elements
 
-🗓 Day 4 – Control Flow & Logical Constructs
-Date: 18-Dec-2025
+Input / Output
 
-Studied logical constructs in Java:
-if, if-else
-switch statement
+Outcome
+
+Solved programming exercises
+
+Committed and pushed programs to repository
+
+✅ Day 4 — Control Flow & Logical Constructs
+
+📅 18-Dec-2025
+
+Topics Covered
+
+if, if-else, switch
+
 ternary operator
-Practiced iteration statements:
-for loop
-while loop
-do-while loop
-Used break and continue statements.
-Solved logical problems such as:
+
+for, while, do-while loops
+
+break & continue
+
+Problems Solved
+
 Factorial
-Prime number check
-Committed and pushed solutions to the repository.
-🔗 Code Link:
-👉 Day 4 – Control Flow
 
-🗓 Day 5 – Arrays & Basic Problem Solving
-Date: 19-Dec-2025
+Prime Number Check
 
-Studied arrays in Java:
-Single-dimensional arrays
-Multi-dimensional arrays
-Practiced array traversal and operations.
-Solved problems related to:
-Finding missing elements
-Basic array-based logic
-Strengthened logical thinking using array problems.
-Committed and pushed solutions to the repository.
-🔗 Code Link:
-👉 Day 5 – Arrays
+✅ Day 5 — Arrays & Basic Problem Solving
 
-🗓 Day 6 –Concepts & problems on Methods
-**Date: 20-Dec-2025
+📅 19-Dec-2025
 
-Studied Java methods:
+Topics Covered
+
+One-Dimensional Arrays
+
+Two-Dimensional Arrays
+
+Traversal & Operations
+
+Problems Solved
+
+Missing elements
+
+Array logic programs
+
+✅ Day 6 — Methods & Problem Solving
+
+📅 20-Dec-2025
+
+Topics Covered
+
 Method declaration
+
 Method calling
+
 Parameter passing
-Practiced reusable logic using methods.
-Committed and pushed solutions to the repository.
-🔗 Code Link:
-👉 Day 6 – Problems on Methods
 
-Week2 : Worked on Strings and Extras Problems
-📅 Day 1 – Strings Concepts & Problems
-Date: 22-Dec-2025
+Outcome
 
-Learn the string concepts
+Implemented reusable logic using methods
 
-Learn about built in methods for strings
-Why string is immutable
+Pushed solutions to repository
+
+🗓 Week 2 — Strings, Extras & LeetCode Practice
+✅ Day 1 — String Concepts & Problems
+
+📅 22-Dec-2025
+
+Topics Covered
+
+String immutability
+
+Built-in string methods
+
 Exception handling
-Solve Problems at three levels
 
-Level1 Basic problems to create own method resemebles built in method
-Level2 Learn how to print data in tabular format
-Level2 Solve random values generated problems
-🔗 Code Link:
-👉Day 1 - String problems
+Problem Levels
 
-📅 Day 2 – Solve Extras Problems
-Date: 23-Dec-2025
+Level 1 — Custom functions similar to built-in methods
 
-Extras Problems on String
+Level 2 — Printing tabular output
 
-Work on concepts like frequency,substring,anagram etc . about string
-Extras Problems on Built in function
+Level 3 — Random-value problems
 
-Ex. includes time packages functions like LocalDate.now(), LocalTime.now() etc.
-Code Link:
-👉String Extras solved , 👉Buiilt function extras Solved
-Notes source:
-👉Built in functions 1 , 👉Built in functions 2
+✅ Day 2 — Extras & Built-In Function Problems
 
-📅 Day 3 - Scenario Based
-Date: 24-Dec-2025 -Solved Two Scenario-based Problems
+📅 23-Dec-2025
 
-🔗 Code Link:
-👉Day-1 Coffee Counyter 👉Day-1 BMI Fitness Tracker
+Topics Covered
 
---- Leetcode Practice 1 Date: 24-Dec-2025
+Frequency calculation
 
-Solved Below problems on leetcode
+Substring problems
+
+Anagram logic
+
+Java Time API
+
+LocalDate
+
+LocalTime
+
+✅ Day 3 — Scenario-Based Problems & LeetCode
+
+📅 24-Dec-2025
+
+Scenario Problems Solved
+
+Coffee Counter
+
+BMI Fitness Tracker
+
+LeetCode Problems Solved
+
 Two Sum
+
 Remove Elements
+
 Search Insert Position
-Container with most water
-Remove duplicates
-🔗 Code Link:
-👉Code of above Problems
-📅 Day 5 - Scenario Based
-Date: 26-Dec-2025 -Solved Three Scenario-based Problems
 
-🔗 Code Link:
-👉Day-2 Election Booth Manager 👉Day-2 Metro Smart Card 👉Day-2 Result Generator
+Container With Most Water
 
---- Leetcode Strings Day-1 Date: 26-Dec-2025
+Remove Duplicates
 
-Solved Below problems on leetcode
+✅ LeetCode — Strings Practice (26–27 Dec 2025)
+
+Problems Solved
+
 First Occurrence in String
+
 Roman to Integer
+
 Add Binary
-Reverse Word in String
-Valid Anagram
-🔗 Code Link:
-👉Code of above Problems
-📅 Day 6 - Leetcode-codebase
---- Leetcode Strings Day-2 Date: 27-Dec-2025
 
-Solved Below problems on leetcode
-Generate Parenthesis
-Roman Conversion
-Longest Substring
+Reverse Words in a String
+
+Valid Anagram
+
+Generate Parentheses
+
 String to Integer
-Valid Parenthesis
-🔗 Code Link:
-👉Code of above Problems
---- Leetcode Strings Day-3 Date: 27-Dec-2025
 
-Solved Below problems on leetcode
-Basic Calculator
-Basic Calculator Two
-Excel Sheet
+Valid Parentheses
+
+Basic Calculator I & II
+
+Excel Sheet Mapping
+
 Isomorphic Strings
-Anagram valid
-🔗 Code Link:
-👉Code of above Problems
-📅 Day 7 - Leetcode-codebase
---- Leetcode Arrays Day-2 Date: 28-Dec-2025
 
-Solved Below problems on leetcode
-Closest Three Sum
-Image Rotate
-Max Subarray
+✅ LeetCode — Arrays Practice (28-Dec-2025)
+
+Problems Solved
+
 Three Sum
-In Sorted matrix count negative
-🔗 Code Link:
-👉Code of above Problems
-Week 3 : Solved Problems and Object Oriented Programming
-📅 Day 1 - Scenario Based, Leetcode based and Object Oriented Programming
---- Scenario based practice-3
-Date: 29-Dec-2025
--Solved Five Scenario-based Problems
 
-🔗 Code Link:
-👉Day-3 Parking Lot
-👉Day-3 Number Guessing Game
-👉Day-3 Shopping Bill
-👉Day-3 Student Bus Attaindance
-👉Day-3 Phone Recharge
+Closest Three Sum
 
---- Leetcode Practice practice
-Date: 29-Dec-2025
+Max Subarray
 
-Solved Below problems on leetcode
+Image Rotate
+
+Count Negatives in Matrix
+
+🗓 Week 3 — OOPS, Scenario-Based Programming & DSA
+🎯 Object Oriented Programming Concepts Covered
+
+this, static, final
+
+instanceof operator
+
+Constructor Inheritance
+
+Method Overriding
+
+Polymorphism
+
+Inheritance Types
+
+Single Level
+
+Multi-Level
+
+Hierarchical
+
+Encapsulation
+
+Interfaces
+
+Abstract Classes
+
+Object Modeling & UML
+
+🎯 Scenario-Based Applications Developed
+
+Parking Lot System
+
+Number Guessing Game
+
+Phone Recharge
+
+Shopping Bill System
+
+Student Bus Attendance
+
+Train Booking System
+
+Library Fine Calculator
+
+Movie Ticket Booking
+
+Digital Watch
+
+Quiz Application
+
+Currency Exchange
+
+🎯 LeetCode Topics Practiced
+
 Valid Palindrome
+
 Valid Anagram
-Isomorphic Strings
+
 Excel Sheet Column Title
-Excel Sheet Column Number
-🔗 Code Link:
-👉Code of above Problems
----Day 3 Object Oriented Programming Fundamental
-> Studied fundamentals of - this, static, final, instanceof operator
-> Solved programming questions based on in built function
-> Pushed the codes to GitHub
-Code link
-Day 3: In Built Function
 
-📅 Day 2 - Scenario Based, Leetcode based and Object Oriented Programming
---- Scenario based practice-4
-Date: 30-Dec-2025
--Solved Five Scenario-based Problems
-
-🔗 Code Link:
-👉Day-4 Temperature Logger
-👉Day-4 Train Booking System
-👉Day-4 Sandeep's Fitness Tracker
-👉Day-4 Movie Ticket Booking
-👉Day-4 LibraryFineCalculator
-
---- Leetcode Practice practice 7
-Date: 30-Dec-2025
-
-Solved Below problems on leetcode
-Reverse String
 Word Pattern
-Fizz Buzz
-First Unique Character in a String
-Reverse Vowels of a String
-🔗 Code Link:
-👉Code of above Problems
----Day 4 Object Modeling, Class Diagram
-> Studied fundamentals of - Classes vs. Objects in Java, Class Diagram, Object Diagrams, Sequence Diagrams
-> Solved programming questions based on object modeling and class diagram.
-> Pushed the codes to GitHub
-Code link
-Day 4: Object Modeling
 
-📅 Day 3 - Scenario Based (END-CORE-JAVA-PRACTICE), Leetcode based and Object Oriented Programming
---- Scenario based practice-5
-Date: 31-Dec-2025
--Solved Five Scenario-based Problems
+Reverse String
 
-🔗 Code Link:
-👉Day-5 Bus Route Distance Tracker
-👉Day-5 Currency Exchange
-👉Day-5 Digital Watch
-👉Day-5 Lucky Draw
-👉Day-5 Quiz Application
+Reverse Vowels
 
---- Leetcode Practice practice 8
-Date: 31-Dec-2025
-
-Solved Below problems on leetcode
-Best Time to Buy and Sell Stock
-Single Number
 Majority Element
+
 Contains Duplicate
-Contains Duplicate II
-🔗 Code Link:
-👉Code of above Problems
----Day 5 Inheritance
-> Studied fundamentals of - Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Key Features of Inheritance, Method Overriding, Constructor Inheritance in Java, Polymorphism and Inheritance, Access Modifiers and Inheritance
-> Solved programming questions based on Inheritance
-> Pushed the codes to GitHub
-Code link
-Day 5: Inheritance
 
-📅 Day 4 - Object Oriented Programming
---- Leetcode Practice practice 9
-Date: 01-Jan-2026
+Best Time to Buy & Sell Stock
 
----Day 6 Encapsulation, Interface, Abstract Classes, and Polymorphism
-> Studied fundamentals of - Encapsulation, Polymorphism , Interface, Abstract Classes
-> Solved programming questions based on Encapsulation
-> Pushed the codes to GitHub
-Code link
-Day 6: Encapsulation
+🎯 DSA Concepts Learned
 
-📅 Day 5 - Scenario-based(OOPS) And Started DSA (Data Structure Algorithms)
---- Leetcode Practice practice 10
-Date: 02-Jan-2026
---- Scenario based practice-1
--Solved Five Scenario-based Problems
+Linked List
 
-🔗 Code Link:
-👉Day-1 Hospital Management System
-👉Day-1 E-Wallet Application
-👉Day-1 University Course Management System
-👉Day-1 Vehicle Rental System
+Singly
 
----Day 1 Data Structure Algorithms Fundamental
-> Studied Data Structure Introduction and LinkedList and its Types
-> Solved programming questions based on LinkedList
-> Pushed the codes to GitHub
-🔗 Code Link:
-👉Day-1 Singly LinkedList
-👉Day-1 Doubly LikedList
-👉Day-1 Circular LinkedList
+Doubly
 
-📅 Day 6 - Leetcode based, Scenario-based(OOPS) And DSA (Data Structure Algorithms)
---- Leetcode Practice practice 11
-Date: 03-Jan-2026
---- Scenario based practice-2
--Solved Two Scenario-based Problems
+Circular
 
-🔗 Code Link:
-👉Day-2 CabbyGo
-👉Day-2 MyBank
+Stack
 
----Day 2 Data Structure Algorithms
-> Studied Stack, Queue, HashMap and Hashing Function
-> Solved programming questions based on - Stack, Queue, HashMap and Hashing Function
-> Pushed the codes to GitHub
-🔗 Code Link:
-👉Day-2 Stack And Queue
-👉Day-2 Hashmap
+Queue
 
-📅 Day 7 - Leetcode based
---- Leetcode Practice practice 12
-Date: 04-Jan-2026
+HashMap
 
-Solved Below problems on leetcode
-Count and Say
-Multiply Strings
-Wildcard Matching
-Group Anagrams
-Valid Number
-🔗 Code Link:
-👉Code of above Problems
-Week 4 : Solved Scenario-based Problems and Data Structures
-📅 Day 1 - Scenario-based(OOPS) And DSA (Data Structure Algorithms)
-Date: 05-Jan-2026
---- Scenario based practice-3
--Solved Two Scenario-based Problems
+Hashing Functions
 
-🔗 Code Link:
-👉Day-3 Campus-Connect
-👉Day-3 Swift-Cart
+Sorting Algorithms:
 
----Day 3 Data Structure Algorithms
-> Studied Bubble Sort,Insertion Sort, Merge Sort, and Quick Sort
-> Solved programming questions based on - Bubble Sort,Insertion Sort, Merge Sort, and Quick Sort
-> Pushed the codes to GitHub
-Code link
-Day 3: Sorting
+Bubble Sort
 
-📅 Day 2 - Scenario-based(OOPS) And Data Structures
---- Leetcode Practice practice 14
-Date: 06-Jan-2026
---- Scenario based practice-4
--Solved Four Scenario-based Problems
+Insertion Sort
 
-🔗 Code Link:
-👉Day-4 PetPal
-👉Day-4 Event Ease
-👉Day-4 Fit Track
-👉Day-4 Edu Mentor
+Merge Sort
 
---- Day 3 Data Structure Algorithms (Linear And Binary Search)
-> Studied Linear Search, Binary Search
-> Solved programming questions based on - Linear Search, Binary Search
-> Pushed the codes to GitHub
-🔗 Code Link:
--👉Day-4 Linear And Binary Search
+Quick Sort
 
+Searching Algorithms:
+
+Linear Search
+
+Binary Search
+
+🗓 Week 4 — Advanced Scenario-Based Problems & DSA
+✅ Scenario-Based Solutions Implemented
+
+Campus-Connect
+
+Swift-Cart
+
+PetPal
+
+EventEase
+
+FitTrack
+
+EduMentor
+
+✅ DSA Focus Areas
+
+Sorting Deep-Dive
+
+Searching Algorithms
+
+Real-world problem solving
+
+Implementation & Optimization
+
+🏁 Overall Outcomes
+
+✔ Strong foundation in Core Java
+✔ Practical OOPS implementation
+✔ Hands-on Scenario-Based Programming
+✔ Structured DSA learning
+✔ Continuous LeetCode practice
+✔ Professional Git & GitHub workflow experience
