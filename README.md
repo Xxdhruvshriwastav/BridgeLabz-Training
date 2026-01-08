@@ -1,358 +1,143 @@
-✅ Day 1 — Git & GitHub Setup
+# Week 2: Object Oriented Programming
 
-📅 15-Dec-2025
+---
 
-Activities Performed
+### 🗓 Day 1 – Object Oriented Programming Fundamental
 
-Installed and configured Git
+**Date:** 26-Dec-2025
 
-Created GitHub repository
+- Studied fundamentals of object oriented programming.
+- Solved very basic Java programs to understand syntax and structure.
+- Pushed the codes to GitHub.
 
-Created core-java-practice branch
+🔗 **Code Link:**  
+👉 [Day 1 – Class and objects]()<br>
+👉 [Day 1 – Class and objects]()
 
+---
 
+### 🗓 Day 2 – Object Oriented Programming Fundamental
 
-Repository Structure
+**Date:** 27-Dec-2025
 
-C:.
-├── gcr-codebase
+- Studied constructors.
+- studied about instance and class variables.
+- studied about access modifiers.
+- Studied the use of getter and setter.
+- Solved programming questions and pushed codes to GitHub.
 
-│   ├── arrays
-│   ├── control-flows
-│   ├── extras
-│   ├── methods
-│   ├── program-prerequisites
-│   ├── programming-elements
-│   └── strings
-├── leetcode-codebase
-├── scenario-based-codebase
-└── README.md
+🔗 **Code Link:**  
+👉 [Day 2 – Constructor and Access Modifiers]()
 
+---
 
+### 🗓 Day 3 – Object Oriented Programming Fundamental
 
+**Date:** 29-Dec-2025
 
-Git Commands Practiced
+- Solved programming questions based on in built function.
+- Studied fundamentals of - this, static, final, instanceof operator.
+- Pushed the codes to GitHub.
 
-git init
+🔗 **Code Link:**  
+👉 [Day 3 – In Built Function]()
 
-git status
+---
 
-git add
+### 🗓 Day 4 – Object Modeling, Relationships and Class Diagram
 
-git commit
+**Date:** 30-Dec-2025
 
-git push
+- Studied fundamentals of - Classes vs. Objects in Java, Class Diagram, Object Diagrams, Sequence Diagrams, Relationships.
+- Solved programming questions based on object modeling and class diagram.
+- Pushed the codes to GitHub.
 
-✅ Day 2 — Git Practice & Basic Java Programs
+🔗 **Code Link:**  
+👉 [Day 4 – Object Modeling]()
 
-📅 16-Dec-2025
+---
 
-Activities Performed
+### 🗓 Day 5 – Inheritance
 
-Practiced Git workflow
+**Date:** 31-Dec-2025
 
-Performed add–commit–push cycle
+- Studied fundamentals of - Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarchical Inheritance.
+- Key Features of Inheritance, Method Overriding, Constructor Inheritance in Java.
+- Polymorphism and Inheritance, Access Modifiers and Inheritance.
+- Solved programming questions based on Inheritance.
 
-Solved basic Java programs
+🔗 **Code Link:**  
+👉 [Day 5 – Inheritance]()
 
-Code Link
+---
 
-Day 2 — Basic Java Programs
+### 🗓 Day 6 – Encapsulation, Interface, Abstract Classes, and Polymorphism
 
-✅ Day 3 — Programming Elements in Java
+**Date:** 01-Jan-2026
 
-📅 17-Dec-2025
+- Studied fundamentals of - Encapsulation, Polymorphism , Interface, Abstract Classes.
+- Solved programming questions based on Encapsulation.
+- Pushed the codes to GitHub.
 
-Topics Covered
+🔗 **Code Link:**  
+👉 [Day 6 – Encapsulation ]()
 
-Variables and Data Types
+---
 
-Operators
+# Week 3: Object Oriented Programming
 
-Input / Output
+---
 
-Outcome
+### 🗓 Day 1 – Scenario based Questions
 
-Solved programming exercises
+**Date:** 02-Jan-2026
 
-Committed and pushed programs to repository
+- Solved Five Scenario-based Problems.
+- Pushed the codes to GitHub.
 
-✅ Day 4 — Control Flow & Logical Constructs
+🔗 **Code Link:**  
+-👉 [Day 1 – Hospital Management]()<br>
+-👉 [Day 1 – Vehicle Rental]()<br>
+-👉 [Day 1 – E-Wallet App]()<br>
+-👉 [Day 1 – University course enrollment]()
 
-📅 18-Dec-2025
+---
 
-Topics Covered
+### 🗓 Day 2 – Scenario based Questions
 
-if, if-else, switch
+**Date:** 03-Jan-2026
 
-ternary operator
+- Solved Two Scenario-based Problems.
+- Pushed the codes to GitHub.
 
-for, while, do-while loops
+🔗 **Code Link:**  
+-👉 [Day 2 – Cabby-Go]()<br>
+-👉 [Day 2 – My Bank]()
 
-break & continue
+---
 
-Problems Solved
+### 🗓 Day 3 – Scenario based Questions
 
-Factorial
+**Date:** 05-Jan-2026
 
-Prime Number Check
+- Solved Two Scenario-based Problems.
+- Pushed the codes to GitHub.
 
-✅ Day 5 — Arrays & Basic Problem Solving
+🔗 **Code Link:**  
+-👉 [Day 3 – Campus Connect]()<br>
+-👉 [Day 3 – Swift Cart]()
 
-📅 19-Dec-2025
+---
 
-Topics Covered
+### 🗓 Day 4 – Scenario based Questions
 
-One-Dimensional Arrays
+**Date:** 06-Jan-2026
 
-Two-Dimensional Arrays
+- Solved Four Scenario-based Problems.
+- Pushed the codes to GitHub.
 
-Traversal & Operations
-
-Problems Solved
-
-Missing elements
-
-Array logic programs
-
-✅ Day 6 — Methods & Problem Solving
-
-📅 20-Dec-2025
-
-Topics Covered
-
-Method declaration
-
-Method calling
-
-Parameter passing
-
-Outcome
-
-Implemented reusable logic using methods
-
-Pushed solutions to repository
-
-🗓 Week 2 — Strings, Extras & LeetCode Practice
-✅ Day 1 — String Concepts & Problems
-
-📅 22-Dec-2025
-
-Topics Covered
-
-String immutability
-
-Built-in string methods
-
-Exception handling
-
-Problem Levels
-
-Level 1 — Custom functions similar to built-in methods
-
-Level 2 — Printing tabular output
-
-Level 3 — Random-value problems
-
-✅ Day 2 — Extras & Built-In Function Problems
-
-📅 23-Dec-2025
-
-Topics Covered
-
-Frequency calculation
-
-Substring problems
-
-Anagram logic
-
-Java Time API
-
-LocalDate
-
-LocalTime
-
-✅ Day 3 — Scenario-Based Problems & LeetCode
-
-📅 24-Dec-2025
-
-Scenario Problems Solved
-
-Coffee Counter
-
-BMI Fitness Tracker
-
-LeetCode Problems Solved
-
-Two Sum
-
-Remove Elements
-
-Search Insert Position
-
-Container With Most Water
-
-Remove Duplicates
-
-✅ LeetCode — Strings Practice (26–27 Dec 2025)
-
-Problems Solved
-
-First Occurrence in String
-
-Roman to Integer
-
-Add Binary
-
-Reverse Words in a String
-
-Valid Anagram
-
-Generate Parentheses
-
-String to Integer
-
-Valid Parentheses
-
-Basic Calculator I & II
-
-Excel Sheet Mapping
-
-Isomorphic Strings
-
-✅ LeetCode — Arrays Practice (28-Dec-2025)
-
-Problems Solved
-
-Three Sum
-
-Closest Three Sum
-
-Max Subarray
-
-Image Rotate
-
-Count Negatives in Matrix
-
-🗓 Week 3 — OOPS, Scenario-Based Programming & DSA
-🎯 Object Oriented Programming Concepts Covered
-
-this, static, final
-
-instanceof operator
-
-Constructor Inheritance
-
-Method Overriding
-
-Polymorphism
-
-Inheritance Types
-
-Single Level
-
-Multi-Level
-
-Hierarchical
-
-Encapsulation
-
-Interfaces
-
-Abstract Classes
-
-Object Modeling & UML
-
-🎯 Scenario-Based Applications Developed
-
-Parking Lot System
-
-Number Guessing Game
-
-Phone Recharge
-
-Shopping Bill System
-
-Student Bus Attendance
-
-Train Booking System
-
-Library Fine Calculator
-
-Movie Ticket Booking
-
-Digital Watch
-
-Quiz Application
-
-Currency Exchange
-
-🎯 LeetCode Topics Practiced
-
-Valid Palindrome
-
-Valid Anagram
-
-Excel Sheet Column Title
-
-Word Pattern
-
-Reverse String
-
-Reverse Vowels
-
-Majority Element
-
-Contains Duplicate
-
-Best Time to Buy & Sell Stock
-
-🎯 DSA Concepts Learned
-
-Linked List
-
-Singly
-
-Doubly
-
-Circular
-
-Stack
-
-Queue
-
-HashMap
-
-Hashing Functions
-
-Sorting Algorithms:
-
-Bubble Sort
-
-Insertion Sort
-
-Merge Sort
-
-Quick Sort
-
-Searching Algorithms:
-
-Linear Search
-
-Binary Search
-
-🗓 Week 4 — Advanced Scenario-Based Problems & DSA
-✅ Scenario-Based Solutions Implemented
-
-Campus-Connect
-
-Swift-Cart
-
-PetPal
-
-EventEase
-
-FitTrack
-
-EduMentor
-
+🔗 **Code Link:**  
+-👉 [Day 4 – Edu-Mentor]()<br>
+-👉 [Day 4 – Fit Track]()<br>
+-👉 [Day 4 – Pet Pal]()<br>
+-👉 [Day 4 – Event Ease]()
