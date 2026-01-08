@@ -1,687 +1,456 @@
-🟢 Day 1 — Basic Git & GitHub Setup
+# Week 1: Git, GitHub & Java Programming Fundamentals
 
-(Date: 16-Dec-2025)
+---
 
-✔ Learning Highlights
+## 📅 Day 1 – Git and GitHub Setup
 
-Understood what Git & GitHub are and why they are used.
+**Date:** 15-Dec-2025
 
-Learned common Git commands and their purpose.
+- Installed and configured Git
+- Set up GitHub repository
+- Created core-java-practice branch
 
-💻 Practiced Git Commands
+### 📂 Repository Structure
 
-Initializing repository
-git init
+```text
+C:.
+├── gcr-codebase
+│   ├── arrays
+│   ├── control-flows
+│   ├── extras
+│   ├── methods
+│   ├── program-prerequisites
+│   ├── programming-elements
+│   └── strings
+├── leetcode-codebase
+├── scenario-based-codebase
+└── README.md
 
-Checking status
-git status
+```
 
-Adding files
-git add .
+- Learned basic git commands like (git init, git status, git commit -m "", git add, git push
+- Successfully pushed files to the remote repository
 
-Committing changes
-git commit -m "message"
+---
 
-Connecting to GitHub
-git remote add origin <repo-url>
+### 🗓 Day 2 – Git Practice & Basic Java Programs
 
-Pushing code
-git push origin main
+**Date:** 16-Dec-2025
 
+- Practiced Git workflow to understand commits and version control.
+- Solved very basic Java programs to understand syntax and structure.
+- Practiced adding, committing, and pushing Java files to GitHub.
 
-📌 Code Link  - https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice
+🔗 **Code Link:**  
+👉 [Day 2 – Basic Java Programs](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
 
+---
 
-🟡 Day 2 — Git Practice & Basic Java Programs
+### 🗓 Day 3 – Programming Elements in Java
 
-(Date: 17-Dec-2025)
+**Date:** 17-Dec-2025
 
-✔ Activities Completed
+- Studied Java programming elements:
+  - Variables and data types
+  - Operators
+  - User input and output
+- Solved practice problems based on programming elements.
+- Committed and pushed solutions to the repository.
 
-Practiced full Git workflow:
+🔗 **Code Link:**  
+👉 [Day 3 – Programming Elements](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
-add → commit → push
+---
 
-Understood version control and commits.
+### 🗓 Day 4 – Control Flow & Logical Constructs
 
-Solved basic Java programs to understand:
+**Date:** 18-Dec-2025
 
-Syntax
+- Studied logical constructs in Java:
+  - if, if-else
+  - switch statement
+  - ternary operator
+- Practiced iteration statements:
+  - for loop
+  - while loop
+  - do-while loop
+- Used break and continue statements.
+- Solved logical problems such as:
+  - Factorial
+  - Prime number check
+- Committed and pushed solutions to the repository.
 
-Structure
+🔗 **Code Link:**  
+👉 [Day 4 – Control Flow](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
-Program execution flow
+---
 
-Practiced adding & pushing Java files to GitHub.
+### 🗓 Day 5 – Arrays & Basic Problem Solving
 
-📌 Code Link -  https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice
+**Date:** 19-Dec-2025
 
+- Studied arrays in Java:
+  - Single-dimensional arrays
+  - Multi-dimensional arrays
+- Practiced array traversal and operations.
+- Solved problems related to:
+  - Finding missing elements
+  - Basic array-based logic
+- Strengthened logical thinking using array problems.
+- Committed and pushed solutions to the repository.
 
-🟠 Day 3 — Programming Elements in Java
+🔗 **Code Link:**  
+👉 [Day 5 – Arrays](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
-(Date: 18-Dec-2025)
+---
 
-✔ Concepts Covered
+### 🗓 Day 6 –Concepts & problems on Methods
 
-Variables & Data Types
+\*\*Date: 20-Dec-2025
 
-Operators
+- Studied Java methods:
+  - Method declaration
+  - Method calling
+  - Parameter passing
+- Practiced reusable logic using methods.
+- Committed and pushed solutions to the repository.
 
-User Input & Output
+🔗 **Code Link:**  
+👉 [Day 6 – Problems on Methods](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
-Operator Precedence
+---
 
-Type Conversion
+# Week2 : Worked on Strings and Extras Problems
 
-Arithmetic Operations
+---
 
-🧠 Practice Guidelines
+## 📅 Day 1 – Strings Concepts & Problems
 
-Use variables instead of hard-coding values
+**Date:** 22-Dec-2025
 
-Proper class & program naming
+- [Learn the string concepts](https://docs.google.com/document/d/1-UXHtzpozVZznDVGYivscpQYEL6-vxOFZWiPpvBH5CE/edit?tab=t.0#heading=h.66yv6crqdvrd)
 
-Follow indentation & naming conventions
+  - Learn about built in methods for strings
+  - Why string is immutable
+  - Exception handling
 
-String name = "Eric";
-double height = input.nextDouble();
-double totalDistance = distanceFromToVia + distanceViaToFinalCity;
+- Solve Problems at three levels
+  - **Level1** Basic problems to create own method resemebles built in method
+  - **Level2** Learn how to print data in tabular format
+  - **Level2** Solve random values generated problems
 
-📌 Code Link - https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-element
+🔗 **Code Link:** <br>
+👉[Day 1 - String problems](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
-🔵 Day 4 — Java Methods Practice
+---
 
-(Date: 20-Dec-2025)
+## 📅 Day 2 – Solve Extras Problems
 
-✔ Concepts Practiced
+**Date:** 23-Dec-2025
 
-User-Defined Methods
+- [Extras Problems on String](https://classroom.google.com/c/ODIxNjE3NTg5MDE1/a/ODIxNjE3NTg5MDU3/details)
 
-Calling Methods Multiple Times
+  - Work on concepts like frequency,substring,anagram etc . about string
 
-Dynamic Methods (with parameters)
+- [Extras Problems on Built in function](https://classroom.google.com/c/ODIxNjE3NTg5MDE1/a/ODIxNjE3NTg5MDYx/details)
 
-Recursive Methods
+  - Ex. includes time packages functions like LocalDate.now(), LocalTime.now() etc.
 
-Static Methods
+  **Code Link:** <br>
+  👉[String Extras solved](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/strings%20practice) ,
+  👉[Buiilt function extras Solved](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+  <br>
+  **Notes source:** <br>
+  👉[Built in functions 1](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/built-in%20methods) ,
+  👉[Built in functions 2](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/extra%20practice)
 
-Standard Library Methods
+---
 
-java.lang.Math usage
+## 📅 Day 3 - Scenario Based
 
-🧠 Best Programming Practices
+**Date:** 24-Dec-2025
+-Solved Two Scenario-based Problems  
 
-Use variables for inputs & results
+🔗 **Code Link:** <br>
+👉[Day-1 Coffee Counter](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-1/CoffeeCounterChronicles.java)
+👉[Day-1 BMI Fitness Tracker](https://github.com/ravi-gautam17/BridgeLabz-Training/blob/core-java-practice/scenario-based-codebase/Day-1/BmiFitnessTracker.java)
 
-Meaningful method names
+--- Leetcode Practice 1
+**Date:** 24-Dec-2025
 
-Proper class & program structure
+- Solved Below problems on leetcode
+  - [Two Sum](https://leetcode.com/problems/two-sum/description/)
+  - [Remove Elements](https://leetcode.com/problems/remove-element/description/)
+  - [Search Insert Position](https://leetcode.com/problems/search-insert-position/description)
+  - [Container with most water](https://leetcode.com/problems/container-with-most-water/description)
+  - [Remove duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  
+    🔗 **Code Link:** <br>
+    👉[Code of above Problems](https://github.com/ravi-gautam17/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-01)
 
-Methods should:
+---
 
-take input
+## 📅 Day 5 - Scenario Based
 
-perform action
+**Date:** 26-Dec-2025
+-Solved Three Scenario-based Problems  
 
-return result
+🔗 **Code Link:** <br>
+👉[Day-2 Election Booth Manager](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-2/ElectionBoothManager.java)
+👉[Day-2 Metro Smart Card](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-2/MetroSmartCard.java)
+👉[Day-2 Result Generator](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-2/ResultGenerator.java)
 
-📌 Code Link - https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods
+--- Leetcode Strings Day-1
+**Date:** 26-Dec-2025
 
+- Solved Below problems on leetcode
+  - [First Occurrence in String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
+  - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
+  - [Add Binary](https://leetcode.com/problems/add-binary/description/)
+  - [Reverse Word in String](https://leetcode.com/problems/reverse-words-in-a-string/description/)
+  - [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)  
+    🔗 **Code Link:** <br>
+    👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-1)
 
-🟣 Day 5 — Java Strings & Exceptions
+---
 
-(Date: 22-Dec-2025)
+## 📅 Day 6 - Leetcode-codebase
 
-✔ Concepts Covered
+--- Leetcode Strings Day-2
+**Date:** 27-Dec-2025
 
-Creating Strings
+- Solved Below problems on leetcode
+  - [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/description/)
+  - [Roman Conversion](https://leetcode.com/problems/roman-to-integer/description/)
+  - [Longest Substring](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+  - [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/description/)
+  - [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)  
+    🔗 **Code Link:** <br>
+    👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-2)
 
-String Input Handling
+--- Leetcode Strings Day-3
+**Date:** 27-Dec-2025
 
-Escape Sequences (\n, \t, etc.)
+- Solved Below problems on leetcode
+  - [Basic Calculator ](https://leetcode.com/problems/basic-calculator/)
+  - [Basic Calculator Two](https://leetcode.com/problems/basic-calculator-ii/description/)
+  - [Excel Sheet](https://leetcode.com/problems/excel-sheet-column-number/)
+  - [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
+  - [Anagram valid](https://leetcode.com/problems/valid-anagram/description/)  
+    🔗 **Code Link:** <br>
+    👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-3)
 
-String Arrays
+---
 
-String as Method Parameters
+## 📅 Day 7 - Leetcode-codebase
 
-String Class Built-in Methods
+--- Leetcode Arrays Day-2
+**Date:** 28-Dec-2025
 
-ASCII Character Codes
+- Solved Below problems on leetcode
+  - [Closest Three Sum](https://leetcode.com/problems/3sum-closest/)
+  - [Image Rotate](https://leetcode.com/problems/rotate-image/description/)
+  - [Max Subarray](https://leetcode.com/problems/maximum-subarray/)
+  - [Three Sum](https://leetcode.com/problems/3sum/description/)
+  - [In Sorted matrix count negative](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/)  
+    🔗 **Code Link:** <br>
+    👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-2)
 
-Java Exceptions
+---
 
-Exception Hierarchy
+# Week 3 : Solved Problems and Object Oriented Programming
 
-Checked & Unchecked Exceptions
+## 📅 Day 1 - Scenario Based, Leetcode based and Object Oriented Programming
 
-Runtime Exceptions
+--- Scenario based practice-3<br>
+**Date:** 29-Dec-2025<br>
+-Solved Five Scenario-based Problems  
 
-🧠 Best Practices
+🔗 **Code Link:** <br>
+👉[Day-3 Parking Lot](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/ParkingLot.java)<br>
+👉[Day-3 Number Guessing Game](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/NumberGuessing.java)<br>
+👉[Day-3 Shopping Bill](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/Discount.java)<br>
+👉[Day-3 Student Bus Attaindance](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/SchoolBusAttendance.java)<br>
+👉[Day-3 Phone Recharge](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-3/PhoneRecharge.java)<br>
 
-Use methods (avoid coding everything in main())
+--- Leetcode Practice practice <br>
+**Date:** 29-Dec-2025<br>
 
-Proper naming conventions
+- Solved Below problems on leetcode
+  - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+  - [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+  - [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
+  - [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)
+  - [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)  
+    🔗 **Code Link:** <br>
+    👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays/day-3)
 
-Exception handling wherever possible
+---Day 3 Object Oriented Programming Fundamental <br> > Studied fundamentals of - this, static, final, instanceof operator <br> > Solved programming questions based on in built function <br> > Pushed the codes to GitHub <br>
+Code link  
+ [Day 3: In Built Function](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction)
 
-📌 Code Link - https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/String
+---
 
-🟡 Day 6 — Java Arrays & Loop-Based Programs
+## 📅 Day 2 - Scenario Based, Leetcode based and Object Oriented Programming
 
-(Date: 23-Dec-2025)
+--- Scenario based practice-4<br>
+**Date:** 30-Dec-2025<br>
+-Solved Five Scenario-based Problems  
 
-✔ Concepts Practiced
+🔗 **Code Link:** <br>
+👉[Day-4 Temperature Logger](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-4/Temprature.java)<br>
+👉[Day-4 Train Booking System](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-4/TrainReservation.java)<br>
+👉[Day-4 Sandeep's Fitness Tracker](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-4/SandeepFitness.java)<br>
+👉[Day-4 Movie Ticket Booking](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-4/MovieTicket.java)<br>
+👉[Day-4 LibraryFineCalculator](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-4/LibraryReminder.java)<br>
 
-Arrays (1D & 2D)
+--- Leetcode Practice practice 7<br>
+**Date:** 30-Dec-2025<br>
 
-For Loop / While Loop / Do-While Loop
+- Solved Below problems on leetcode
+  - [Reverse String](https://leetcode.com/problems/reverse-string/description/)
+  - [Word Pattern](https://leetcode.com/problems/word-pattern/description/)
+  - [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
+  - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
+  - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)  
+    🔗 **Code Link:** <br>
+    👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-3)
 
-Enhanced For-Each Loop
+---Day 4 Object Modeling, Class Diagram<br> > Studied fundamentals of - Classes vs. Objects in Java, Class Diagram, Object Diagrams, Sequence Diagrams<br> > Solved programming questions based on object modeling and class diagram. <br> > Pushed the codes to GitHub <br>
+Code link  
+ [Day 4: Object Modeling](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/objectmodeling)
 
-Index-based Iteration
+---
 
-Sum, Average, and Max Calculation
+## 📅 Day 3 - Scenario Based (END-CORE-JAVA-PRACTICE), Leetcode based and Object Oriented Programming
 
-Array Traversal & Updating Elements
+--- Scenario based practice-5<br>
+**Date:** 31-Dec-2025<br>
+-Solved Five Scenario-based Problems  
 
-🧠 Problem Statements Practiced
+🔗 **Code Link:** <br>
+👉[Day-5 Bus Route Distance Tracker](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-5/BusRouteDistance.java)<br>
+👉[Day-5 Currency Exchange](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-5/CurrencyExchange.java)<br>
+👉[Day-5 Digital Watch](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-5/DigitalWatch.java)<br>
+👉[Day-5 Lucky Draw](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-5/FestivalLuckyDraw.java)<br>
+👉[Day-5 Quiz Application](https://github.com/vedansh-barve/BridgeLabz-Training/blob/core-java-practice/scenario-based/day-5/OnlineQuiz.java)<br>
 
-Temperature Logger — store 7-day temperatures
+--- Leetcode Practice practice 8<br>
+**Date:** 31-Dec-2025<br>
 
-Fitness Tracker — calculate total & average reps
+- Solved Below problems on leetcode
+  - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+  - [Single Number](https://leetcode.com/problems/single-number/description/)
+  - [Majority Element](https://leetcode.com/problems/majority-element/description/)
+  - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+  - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)  
+    🔗 **Code Link:** <br>
+    👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-2)
 
-Attendance Tracker — count present/absent students
+---Day 5 Inheritance <br> > Studied fundamentals of - Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Key Features of Inheritance, Method Overriding, Constructor Inheritance in Java, Polymorphism and Inheritance, Access Modifiers and Inheritance <br> > Solved programming questions based on Inheritance<br> > Pushed the codes to GitHub <br>
+Code link  
+ [Day 5: Inheritance](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inheritance)
 
-Handled edge cases & input validation
+---
 
-📌 Code Link
-(https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
+## 📅 Day 4 - Object Oriented Programming
 
-🟢 Day 7 — Control Flow & Decision Making
+--- Leetcode Practice practice 9<br>
+**Date:** 01-Jan-2026<br>
 
-(Date: 24-Dec-2025)
+---Day 6 Encapsulation, Interface, Abstract Classes, and Polymorphism <br> > Studied fundamentals of - Encapsulation, Polymorphism , Interface, Abstract Classes <br> > Solved programming questions based on Encapsulation<br> > Pushed the codes to GitHub <br>
+Code link  
+ [Day 6: Encapsulation](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/encapsulation)
 
-✔ Concepts Covered
+---
 
-if / else conditions
+## 📅 Day 5 - Scenario-based(OOPS) And Started DSA (Data Structure Algorithms)
 
-Nested if-else
+--- Leetcode Practice practice 10<br>
+**Date:** 02-Jan-2026<br>
+--- Scenario based practice-1<br>
+-Solved Five Scenario-based Problems  
 
-Switch Case
+🔗 **Code Link:** <br>
+👉[Day-1 Hospital Management System](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/hospitalmanagementsystem)<br>
+👉[Day-1 E-Wallet Application](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day1/ewalletapp)<br>
+👉[Day-1 University Course Management System](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day1/universitycourseenrollment)<br>
+👉[Day-1 Vehicle Rental System](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day1/VehicleRental)<br>
 
-Break & Continue
+---Day 1 Data Structure Algorithms Fundamental <br> > Studied Data Structure Introduction and LinkedList and its Types <br> > Solved programming questions based on LinkedList<br> > Pushed the codes to GitHub <br>
+🔗 **Code Link:** <br>
+👉[Day-1 Singly LinkedList](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/com/singlylinkedlist)<br>
+👉[Day-1 Doubly LikedList](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/com/doublylinkedlist)<br>
+👉[Day-1 Circular LinkedList](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/com/circularlinkedlist)<br>
 
-Loop Control Execution Flow
+---
 
-User-Driven Menu Programs
+## 📅 Day 6 - Leetcode based, Scenario-based(OOPS) And DSA (Data Structure Algorithms)
 
-🧠 Scenario-Based Programs
+--- Leetcode Practice practice 11<br>
+**Date:** 03-Jan-2026<br>
+--- Scenario based practice-2<br>
+-Solved Two Scenario-based Problems  
 
-Coffee Counter Billing App
+🔗 **Code Link:** <br>
+👉[Day-2 CabbyGo](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day2/CabbyGo)<br>
+👉[Day-2 MyBank](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day2/mybank)<br>
 
-BMI Health Tracker
+---Day 2 Data Structure Algorithms <br> > Studied Stack, Queue, HashMap and Hashing Function <br> > Solved programming questions based on - Stack, Queue, HashMap and Hashing Function<br> > Pushed the codes to GitHub <br>
+🔗 **Code Link:** <br>
+👉[Day-2 Stack And Queue](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/com/stackandqueue)<br>
+👉[Day-2 Hashmap](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/com/hashmapk)<br>
 
-Metro Smart Card Fare Deduction
+---
 
-Fine Calculator & Grade System
+## 📅 Day 7 - Leetcode based
 
-Applied:
+--- Leetcode Practice practice 12<br>
+**Date:** 04-Jan-2026<br>
 
-clean code structure
+- Solved Below problems on leetcode
+  - [Count and Say](https://leetcode.com/problems/count-and-say/description/)
+  - [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
+  - [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
+  - [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
+  - [Valid Number](https://leetcode.com/problems/valid-number/description/)  
+    🔗 **Code Link:** <br>
+    👉[Code of above Problems](https://github.com/vedansh-barve/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings/day-3)
 
-meaningful variable names
+---
 
-method modularization
+# Week 4 : Solved Scenario-based Problems and Data Structures
 
-📌 Code Link  
+## 📅 Day 1 - Scenario-based(OOPS) And DSA (Data Structure Algorithms)
 
-https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow
+**Date:** 05-Jan-2026<br>
+--- Scenario based practice-3<br>
+-Solved Two Scenario-based Problems  
 
+🔗 **Code Link:** <br>
+👉[Day-3 Campus-Connect](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day3/campusconnect)<br>
+👉[Day-3 Swift-Cart](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day3/swiftcart)<br>
 
-🔵 Day 8 — Object-Oriented Fundamentals & Class Design
+---Day 3 Data Structure Algorithms <br> > Studied Bubble Sort,Insertion Sort, Merge Sort, and Quick Sort<br> > Solved programming questions based on - Bubble Sort,Insertion Sort, Merge Sort, and Quick Sort<br> > Pushed the codes to GitHub <br>
+Code link  
+ [Day 3: Sorting](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/com/sortingalgorithm)
 
-(Date: 26-Dec-2025)
+---
 
-✔ Concepts Covered
+## 📅 Day 2 - Scenario-based(OOPS) And Data Structures
 
-Classes & Objects
+--- Leetcode Practice practice 14<br>
+**Date:** 06-Jan-2026<br>
+--- Scenario based practice-4<br>
+-Solved Four Scenario-based Problems  
 
-Constructors
+🔗 **Code Link:** <br>
+👉[Day-4 PetPal](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/PetPal)<br>
+👉[Day-4 Event Ease](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/eventease)<br>
+👉[Day-4 Fit Track](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/fittrack)<br>
+👉[Day-4 Edu Mentor](https://github.com/vedansh-barve/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedproblems/src/com/day4/edumentor)<br>
 
-Instance vs Static Variables
+--- Day 3 Data Structure Algorithms (Linear And Binary Search) <br> > Studied Linear Search, Binary Search <br> > Solved programming questions based on - Linear Search, Binary Search <br> > Pushed the codes to GitHub <br>
+🔗 **Code Link:** <br>
+-👉[Day-4 Linear And Binary Search](https://github.com/vedansh-barve/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/src/com/linearbinarysearch)<br>
 
-Access Modifiers (public / private / protected)
-
-this & final keyword usage
-
-Method Overloading
-
-🧠 Practice Models Implemented
-
-Student Details System
-
-Employee Salary Calculator
-
-Product Inventory System
-
-Bank Account Object Model
-
-Focused on:
-
-SRP (Single Responsibility Principle)
-
-Encapsulation of data members
-
-📌 Code Link  https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops/levelone
-
-
-🟠 Day 9 — Inheritance & Object Modeling
-
-(Date: 30-Dec-2025)
-
-✔ Concepts Practiced
-
-Inheritance (IS-A relationship)
-
-Parent & Child Classes
-
-Method Overriding
-
-Super Keyword
-
-Hierarchical & Multilevel Inheritance
-
-Class Diagram Thinking Approach
-
-🧠 Scenario-Based Programs
-
-Library Book Fine System
-
-Movie Ticket Booking Application
-
-Online Quiz Application
-
-Concepts applied:
-
-polymorphic behavior
-
-reusable common parent class
-
-abstraction of shared features
-
-📌 Code Link 1 https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops/inheritance
-
-
-2  https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops/objectmodeling
-
-
-🟣 Day 10 — Encapsulation, Abstraction & Interfaces
-
-(Date: 01-Jan-2026)
-
-✔ Concepts Covered
-
-Encapsulation & Data Hiding
-
-Getter / Setter Implementation
-
-Abstract Classes
-
-Interfaces
-
-Runtime Polymorphism
-
-Access Modifier Best Practices
-
-🧠 Real-World OOP Systems Designed
-
-Hospital Patient Management System
-
-Vehicle Rental Application
-
-University Course Enrollment
-
-E-Wallet Application
-
-Smart Home Automation System
-
-Applied:
-
-private sensitive fields
-
-interface-based abstraction
-
-polymorphic behavior
-
-constructor-based initialization
-
-📌 Code Link  https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops/encapsulation
-
-
-
-🟡 Day 11 — Banking & Ride-Hailing Business Logic (Advanced OOP)
-
-(Date: 03-Jan-2026)
-
-✔ Concepts Practiced
-
-Interface-Driven Design
-
-Business Logic Encapsulation
-
-Access Restriction & Data Security
-
-Polymorphism in Real Applications
-
-🧠 Applications Implemented
-
-CabbyGo — Ride Booking System
-
-MyBank — Savings & Current Accounts
-
-Interest Calculation Logic
-
-Fare Calculation (Base + Rate × Distance)
-
-Used:
-
-constructors
-
-interfaces
-
-protected fields
-
-polymorphic methods
-
-📌 Code Link
-https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/scenario-based/banking-rideapp
-
-🟢 Day 12 — Shopping Cart & College Information System
-
-(Date: 05-Jan-2026)
-
-✔ Concepts Covered
-
-Encapsulation in Price Handling
-
-Polymorphic Discount Logic
-
-GPA Calculation Using Operators
-
-List Handling in OOP Classes
-
-🧠 Projects Designed
-
-SwiftCart — Grocery Shopping Cart
-
-CampusConnect — Student & Faculty Portal
-
-Sorting Algorithm Practice
-
-Applied:
-
-cart aggregation logic
-
-access-controlled fields
-
-object list relationships
-
-📌 Code Link
-https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/scenario-based/shopping-college
-
-🔵 Day 13 — Fitness Tracker & EduMentor Platform
-
-(Date: 06-Jan-2026)
-
-✔ Concepts Implemented
-
-Health Data Encapsulation
-
-Certificate Generation Logic
-
-Interface Contracts
-
-Score & Percentage Calculation
-
-🧠 Applications Built
-
-FitTrack — Fitness Workout Tracker
-
-EduMentor — Learning & Quiz Platform
-
-Applied:
-
-private health fields
-
-ITrackable & ICertifiable interfaces
-
-constructor-driven initialization
-
-quiz scoring logic
-
-📌 Code Link
-https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/scenario-based/fitness-education
-
-🟣 Day 14 — PetPal & EventEase — Advanced Polymorphism Systems
-
-(Date: 07-Jan-2026)
-
-✔ Concepts Covered
-
-State Encapsulation (mood, hunger, energy)
-
-Behavioral Polymorphism
-
-Randomized Constructor Defaults
-
-Restricted Field Modification via Methods
-
-🧠 Projects Designed
-
-PetPal — Virtual Pet Care App
-
-EventEase — Event Scheduling System
-
-Implemented:
-
-makeSound() polymorphism
-
-event scheduling abstraction
-
-cost computation operators
-
-secure internal state handling
-
-📌 Code Link
-https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/scenario-based/petpal-eventease
-
-🟢 Day 15 — Sorting Algorithms Implementation
-
-(Date: 05-Jan-2026)
-
-✔ Concepts Covered
-
-Sorting Logic & Time Complexity Understanding
-
-Comparison-Based Sorting
-
-Order-Based Data Processing
-
-Stable vs Unstable Sort
-
-✔ Algorithms Implemented
-
-Bubble Sort
-
-Selection Sort
-
-Insertion Sort
-
-Merge Sort
-
-Quick Sort
-
-✔ Learning Outcomes
-
-Understood working mechanism of sorting
-
-Analyzed:
-
-No. of passes
-
-Swaps & Comparisons
-
-Optimized variations
-
-Printed sorted + unsorted outputs for verification
-
-🧠 Best Practices Followed
-
-Used separate methods for each algorithm
-
-Meaningful method & variable names
-
-Clean and readable code structure
-
-Avoided duplicate logic inside main()
-
-📌 Code Link
-https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/sorting-algorithms
-
-🟣 Day 16 — Linear & Binary Search + Input Handling
-
-(Date: 06-Jan-2026)
-
-✔ Concepts Practiced
-
-Linear Search
-
-Binary Search
-
-Condition-Based Comparisons
-
-Mid Index Calculation
-
-Search Result Verification
-
-✔ File & Input Handling Concepts
-
-StringBuilder vs StringBuffer
-
-BufferedReader
-
-FileReader
-
-InputStreamReader
-
-✔ Learning Outcomes
-
-Improved problem-solving speed
-
-Understood sorted vs unsorted data search
-
-Handled:
-
-invalid input
-
-index boundaries
-
-edge conditions
-
-🧠 Programming Practices
-
-Separated search logic into methods
-
-Used meaningful function signatures
-
-Handled exceptions safely
-
-📌 Code Link
-https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/searching-programs
-
-🔵 Scenario-Based Project Practice (Combined Section)
-
-(Ongoing — Applied OOP + Logic + Real-World Design)
-
-✔ Domains Covered
-
-Banking Systems
-
-Ride Booking System
-
-Hospital Management
-
-Shopping Cart System
-
-Course & Learning Platforms
-
-Virtual Pet System
-
-Event Management System
-
-Fitness Tracking
-
-E-Wallet System
-
-University & College Portals
-
-✔ OOP Concepts Applied
-
-Encapsulation
-
-Inheritance
-
-Abstraction
-
-Interfaces
-
-Polymorphism
-
-Constructor Overloading
-
-Access Modifiers
-
-Encapsulated Business Logic
-
-✔ Business Logic Implemented
-
-Fare Calculation
-
-Interest Calculation
-
-Discount Application
-
-GPA Computation
-
-Certificate Generation
-
-Workout Tracking
-
-Event Scheduling
-
-Pet Mood & Hunger Simulation
-
-✔ Design Principles Followed
-
-Single Responsibility Principle
-
-Clean class structure
-
-Private sensitive fields
-
-Interface-driven design
-
-Polymorphic override behavior
-
-🧠 Outcome
-
-Built real-world Java module thinking
-
-Improved logical & structural coding ability
-
-Practiced enterprise-style programming approach
-
-📌 Scenario-Based Programs Code Link
-https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/scenario-based
-
-
+---
