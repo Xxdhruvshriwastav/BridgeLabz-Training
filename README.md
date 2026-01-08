@@ -1,105 +1,51 @@
-🟡 Linear & Binary Search
+# Week 3: Data Structures And Algorithms
 
-✔ Program Added — Search Largest Value & Binary Search
+***
+### 🗓 Day 1 – Data Structure Algorithms Fundamental  ( LinkedList ) 
+**Date:** 02-Jan-2026
 
-Concepts practiced:
+- Studied Data Structure Introduction and LinkedList and its Type
+- Solved  programming questions based on LinkedList.
 
-Linear Search
+🔗 **Code Link:**  
+-👉 [Day 1 – LinkedList]()
 
-Binary Search
+-----
 
-Index traversal
+### 🗓 Day 2 – Data Structure Algorithms ( Stack, Queues, Hashmap ) 
+**Date:** 03-Jan-2026
 
-Maximum value search
+- Studied Stack, Queue, HashMap and Hashing Function
+- Solved  programming questions based on - Stack, Queue, HashMap and Hashing Function
 
-Comparison logic
+🔗 **Code Link:**  
+-👉 [Day 2 – Stack and Queue]()
+-👉 [Day 2 – HashMap]()
 
-Commit:
 
-[Ashish] : Added the program of Search Search largest value
+-----
 
-📌 Code Link
-https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcept/src/com/dsa/linerbinarySearch
+### 🗓 Day 3 – Data Structure Algorithms ( Sorting Algorithms ) 
+**Date:** 05-Jan-2026
 
-Status: ✅ Completed
+- Studied Bubble Sort, Insertion Sort, Merge Sort, and Quick Sort, Heap Sort
+- Solved  programming questions based on - Bubble Sort, Insertion Sort, Merge Sort, and Quick Sort
 
-🔵 Linked List — Ticket Reservation System
+🔗 **Code Link:**  
+-👉 [Day 3 – Sorting Algorithms]()
 
-✔ Program Added — Ticket Reservation Using LinkedList
 
-Concepts applied:
+-----
 
-Node traversal
+### 🗓 Day 4 – Data Structure Algorithms ( Linear And Binary Search ) 
+**Date:** 06-Jan-2026
 
-Dynamic list handling
+- Studied Linear and Binary Search
+- Studied FileReader, InputStreamReader, StringBuilder, StringBuffer
+- Solved  programming questions based on - Linear Search, Binary Search, FileReader, InputStreamReader, StringBuilder and StringBuffer
 
-Insertion & deletion simulation
+🔗 **Code Link:**  
+-👉 [Day 4 – Linear and binary search]()
 
-Queue-like reservation workflow
 
-Commit:
-
-[Ashish] : added program of ticket reservation
-
-📌 Code Link
-https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcept/src/com/dsa/linkedlist
-
-Status: ✅ Completed
-
-🟣 Sorting Algorithms — Merge Sort
-
-✔ Program Added — Merge Sort Implementation
-
-Learning focus:
-
-Divide & conquer approach
-
-Recursive logic
-
-Merging sorted arrays
-
-Time complexity understanding
-
-Commit:
-
-[Ashish] : Added the program of merge sort
-
-📌 Code Link
-https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcept/src/com/dsa/sortingalgorithm
-
-Status: ✅ Completed
-
-🟠 Stack | Queue | HashMap Practice
-
-✔ Concepts practiced:
-
-Stack operations (push / pop / peek)
-
-Queue operations (enqueue / dequeue)
-
-HashMap key–value storage
-
-Basic data structure workflows
-
-Commit category:
-
-stackQueuehashmap
-
-📌 Code Link
-https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcept/src/com/dsa/stackQueuehashmap
-
-Status: 🔄 Practice in Progress
-
-🧠 DSA Learning Outcome
-
-Built strong fundamentals in:
-
-Searching
-
-Sorting
-
-Linked Lists
-
-Stack & Queue Logic
-
-Strengthened problem-solving & logical thinking
+-----
