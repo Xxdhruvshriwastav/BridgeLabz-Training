@@ -42,7 +42,7 @@ C:.
 - Practiced adding, committing, and pushing Java files to GitHub.
 
 🔗 **Code Link:**  
-👉 [Day 2 – Basic Java Programs]()
+👉 [Day 2 – Basic Java Programs](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites)
 
 ---
 
@@ -58,7 +58,7 @@ C:.
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 3 – Programming Elements]()
+👉 [Day 3 – Programming Elements](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-element)
 
 ---
 
@@ -81,7 +81,7 @@ C:.
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 4 – Control Flow]()
+👉 [Day 4 – Control Flow](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
 ---
 
@@ -100,7 +100,7 @@ C:.
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 5 – Arrays]()
+👉 [Day 5 – Arrays](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
 
@@ -116,7 +116,7 @@ C:.
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 6 – Problems on Methods]()
+👉 [Day 6 – Problems on Methods](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods)
 
 ---
 
@@ -148,7 +148,7 @@ C:.
 
 **Date:** 23-Dec-2025
 
-- [Extras Problems on String]()
+- [Extras Problems on String](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/String)
 
   - Work on concepts like frequency,substring,anagram etc . about string
 
@@ -158,7 +158,7 @@ C:.
 
   **Code Link:** <br>
   👉[String Extras solved]() ,
-  👉[Buiilt function extras Solved]()
+  👉[Buiilt function extras Solved](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
   <br>
   **Notes source:** <br>
   👉[Built in functions 1]() ,
@@ -213,7 +213,7 @@ C:.
   - [Isomorphic Strings]()
   - [Anagram valid]()  
     🔗 **Code Link:** <br>
-    👉[Code of above Problems]()
+    👉[Code of above Problems](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/blob/core-java-practice/scenario-based/BMICalculator.java)
 
 ---
 
@@ -237,7 +237,7 @@ C:.
 
 ---Day 3 Object Oriented Programming Fundamental <br> > Studied fundamentals of - this, static, final, instanceof operator <br> > Solved programming questions based on in built function <br> > Pushed the codes to GitHub <br>
 Code link  
- [Day 3: In Built Function]()
+ [Day 3: In Built Function](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops/inbuiltFunction)
 
 ---
 
@@ -248,20 +248,19 @@ Code link
 -Solved Five Scenario-based Problems  
 
 🔗 **Code Link:** <br>
-👉[Day-4 Temperature Logger]()<br>
-👉[Day-4 Train Booking System]()<br>
-👉[Day-4 Sandeep's Fitness Tracker]()<br>
-👉[Day-4 Movie Ticket Booking]()<br>
-👉[Day-4 LibraryFineCalculator]()<br>
+   [Day-4 Temperature Logger]
+   [Day-4 Train Booking System]
+   [Day-4 Sandeep's Fitness Tracker]()<br>
+   [Day-4 Movie Ticket Booking]()<br>
+   [Day-4 LibraryFineCalculator]()<br>
 
---- Leetcode Practice practice 7<br>
-**Date:** 30-Dec-2025<br>
+ 👉[Day-4 all links ] (https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops/inbuiltFunction)<br>
 
 
 
 ---Day 4 Object Modeling, Class Diagram<br> > Studied fundamentals of - Classes vs. Objects in Java, Class Diagram, Object Diagrams, Sequence Diagrams<br> > Solved programming questions based on object modeling and class diagram. <br> > Pushed the codes to GitHub <br>
 Code link  
- [Day 4: Object Modeling]()
+ [Day 4: Object Modeling](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops/objectmodeling)
 
 ---
 
@@ -278,8 +277,7 @@ Code link
 👉[Day-5 Lucky Draw]()<br>
 👉[Day-5 Quiz Application]()<br>
 
---- Leetcode Practice practice 8<br>
-**Date:** 31-Dec-2025<br>
+  [Day-5 ] (https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/seneriobased/SeneriobasedQuestions/src)
 
 
 
@@ -291,12 +289,11 @@ Code link
 
 ## 📅 Day 4 - Object Oriented Programming
 
---- Leetcode Practice practice 9<br>
-**Date:** 01-Jan-2026<br>
+
 
 ---Day 6 Encapsulation, Interface, Abstract Classes, and Polymorphism <br> > Studied fundamentals of - Encapsulation, Polymorphism , Interface, Abstract Classes <br> > Solved programming questions based on Encapsulation<br> > Pushed the codes to GitHub <br>
 Code link  
- [Day 6: Encapsulation]()
+ [Day 6: Encapsulation](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops/encapsulation)
 
 ---
 
@@ -307,35 +304,29 @@ Code link
 --- Scenario based practice-1<br>
 -Solved Five Scenario-based Problems  
 
-🔗 **Code Link:** <br>
-👉[Day-1 Hospital Management System]()<br>
-👉[Day-1 E-Wallet Application]()<br>
-👉[Day-1 University Course Management System]()<br>
-👉[Day-1 Vehicle Rental System]()<br>
+
+[Day-1 Hospital Management System]
+[Day-1 E-Wallet Application]
+[Day-1 University Course Management System]
+[Day-1 Vehicle Rental System]()
+
+
 
 ---Day 1 Data Structure Algorithms Fundamental <br> > Studied Data Structure Introduction and LinkedList and its Types <br> > Solved programming questions based on LinkedList<br> > Pushed the codes to GitHub <br>
 🔗 **Code Link:** <br>
-👉[Day-1 Singly LinkedList]()<br>
-👉[Day-1 Doubly LikedList]()<br>
-👉[Day-1 Circular LinkedList]()<br>
+👉[Day-1 Singly LinkedList](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcept/src/com/dsa/linkedlist/singlylinkedlist)<br>
+👉[Day-1 Doubly LikedList](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcept/src/com/dsa/linkedlist/doublylinkedlist)<br>
+👉[Day-1 Circular LinkedList](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcept/src/com/dsa/linkedlist/circularlinkedlist)<br>
 
 ---
 
-## 📅 Day 6 - Leetcode based, Scenario-based(OOPS) And DSA (Data Structure Algorithms)
 
---- Leetcode Practice practice 11<br>
-**Date:** 03-Jan-2026<br>
---- Scenario based practice-2<br>
--Solved Two Scenario-based Problems  
 
-🔗 **Code Link:** <br>
-👉[Day-2 CabbyGo]()<br>
-👉[Day-2 MyBank]()<br>
 
 ---Day 2 Data Structure Algorithms <br> > Studied Stack, Queue, HashMap and Hashing Function <br> > Solved programming questions based on - Stack, Queue, HashMap and Hashing Function<br> > Pushed the codes to GitHub <br>
 🔗 **Code Link:** <br>
-👉[Day-2 Stack And Queue]()<br>
-👉[Day-2 Hashmap]()<br>
+👉[Day-2 Stack And Queue](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcept/src/com/dsa/stackQueuehashmap/stackQueue)<br>
+👉[Day-2 Hashmap](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcept/src/com/dsa/stackQueuehashmap/hashmap)<br>
 
 ---
 
@@ -349,31 +340,31 @@ Code link
 --- Scenario based practice-3<br>
 -Solved Two Scenario-based Problems  
 
-🔗 **Code Link:** <br>
-👉[Day-3 Campus-Connect]()<br>
-👉[Day-3 Swift-Cart]()<br>
+
+[Day-3 Campus-Connect]
+[Day-3 Swift-Cart]
 
 ---Day 3 Data Structure Algorithms <br> > Studied Bubble Sort,Insertion Sort, Merge Sort, and Quick Sort<br> > Solved programming questions based on - Bubble Sort,Insertion Sort, Merge Sort, and Quick Sort<br> > Pushed the codes to GitHub <br>
 Code link  
- [Day 3: Sorting]()
+ [Day 3: Sorting](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcept/src/com/dsa/sortingalgorithm)
 
 ---
 
 ## 📅 Day 2 - Scenario-based(OOPS) And Data Structures
 
---- Leetcode Practice practice 14<br>
-**Date:** 06-Jan-2026<br>
---- Scenario based practice-4<br>
+
 -Solved Four Scenario-based Problems  
 
-🔗 **Code Link:** <br>
-👉[Day-4 PetPal]()<br>
-👉[Day-4 Event Ease]()<br>
-👉[Day-4 Fit Track]()<br>
-👉[Day-4 Edu Mentor]()<br>
+
+👉[Day-4 PetPal]
+👉[Day-4 Event Ease]
+👉[Day-4 Fit Track]
+👉[Day-4 Edu Mentor]
 
 --- Day 3 Data Structure Algorithms (Linear And Binary Search) <br> > Studied Linear Search, Binary Search <br> > Solved programming questions based on - Linear Search, Binary Search <br> > Pushed the codes to GitHub <br>
 🔗 **Code Link:** <br>
--👉[Day-4 Linear And Binary Search]()<br>
+-👉[Day-4 Linear And Binary Search](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcept/src/com/dsa/linerbinarySearch)<br>
 
 ---
+
+
