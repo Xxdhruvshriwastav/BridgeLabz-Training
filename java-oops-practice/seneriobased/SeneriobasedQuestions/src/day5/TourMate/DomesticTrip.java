@@ -27,7 +27,7 @@ public class DomesticTrip extends Trip {
         System.out.println("Domestic Trip booked to " + getDestination());
         System.out.println("Total Cost: ₹" + totalBudget);
     }
-
+    
     @Override
     public void cancel() {
         System.out.println("Domestic Trip cancelled");
