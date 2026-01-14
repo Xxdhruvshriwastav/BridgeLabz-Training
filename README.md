@@ -49,3 +49,25 @@
 
 
 -----
+
+
+📅 Day 1 - Scenario-based(DSA) And OOPs
+
+👉[Day-4 BookShelf](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/BookShelf)
+👉[Day-4 BrowserBuddy](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/BrowserBuddy)
+👉[Day-4 AmbulanceRoute](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/AmbulanceRoute)
+
+
+📅 Day 2 - Scenario-based(DSA) And OOPs
+
+👉[Day-4 CallCenter ](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/CallCenterManager)
+👉[Day-4 TrainCompanion](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/TrainCompanion)
+👉[Day-4 TextEditor](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/TextEditor)
+👉[Day-4 TrafficManager](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/TrafficManager)
+
+👉[Day-4 HomeNest](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/HomeNest)
+👉[Day-4 BudgetWise](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/BudgetWise)
+👉[Day-4 GameBoxGameBox](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/GameBox)
+👉[Day-4 SmartCheckoutSmartCheckout](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/SmartCheckout)
+👉[Day-4 PayXpress](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/PayXpresshttps://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/PayXpress)
+👉[Day-4 Bird Sanctuary](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/PayXpresshttps://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/BirdSanctuaryhttps://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-
