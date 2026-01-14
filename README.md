@@ -141,3 +141,19 @@
 -👉 [Day 4 – Fit Track]()<br>
 -👉 [Day 4 – Pet Pal]()<br>
 -👉 [Day 4 – Event Ease]()
+
+
+📅 Day 3 - Scenario-based(OOPS) And Data Structures
+👉[Day-4 LoanBuddy](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/seneriobased/SeneriobasedQuestions/src/day5/LoanBuddy)
+👉[Day-4 BookBazaar ](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/seneriobased/SeneriobasedQuestions/src/day5/BookBazaar)
+👉[Day-4 ParkEase](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/seneriobased/SeneriobasedQuestions/src/day5/ParkEase)
+
+
+
+ 📅 Day 4 - Scenario-based(OOPS) And Data Structures
+
+👉[Day-4 MediStore](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/seneriobased/SeneriobasedQuestions/src/day5/MediStore)
+👉[Day-4 TourMate](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/seneriobased/SeneriobasedQuestions/src/day5/TourMate)
+👉[Day-4 Artify](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/seneriobased/SeneriobasedQuestions/src/day5/Artify)
+👉[Day-4 FoodLoop](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/seneriobased/SeneriobasedQuestions/src/day5/FoodLoop)
+👉[Day-4 SkillForge](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/seneriobased/SeneriobasedQuestions/src/day5/SkillForge)
