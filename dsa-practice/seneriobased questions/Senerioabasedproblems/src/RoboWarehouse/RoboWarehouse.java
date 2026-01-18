@@ -13,17 +13,20 @@ class RoboWarehouse {
             int j = i - 1;
 
             // shift heavier packages to right
+            
             while (j >= 0 && weight[j] > key) {
                 weight[j + 1] = weight[j];
                 j--;
             }
 
             // insert package at correct position
+            
             weight[j + 1] = key;
         }
     }
 
     // Method to print shelf
+    
     public static void printShelf(int[] arr) {
         for (int w : arr) {
             System.out.print(w + " ");
