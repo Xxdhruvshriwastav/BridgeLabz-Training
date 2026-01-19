@@ -391,14 +391,14 @@ Code link
 
 // generics
 
-📅 Day 1 - Scenario-based(DSA) And OOPs
+📅 Day 5 - Scenario-based(DSA) And OOPs
 
 👉[Day-4 BookShelf](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/BookShelf)
 👉[Day-4 BrowserBuddy](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/BrowserBuddy)
 👉[Day-4 AmbulanceRoute](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/AmbulanceRoute)
 
 
-📅 Day 2 - Scenario-based(DSA) And OOPs
+📅 Day 6 - Scenario-based(DSA) And OOPs
 
 👉[Day-4 CallCenter ](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/CallCenterManager)
 👉[Day-4 TrainCompanion](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/TrainCompanion)
@@ -414,9 +414,29 @@ Code link
 
 
 
-📅 Day 1 - Scenario-based(Sorting Algorithm) 
+📅 Day 7 - Scenario-based(Sorting Algorithm) 
 
 👉[Day-1 HospitalQueue](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/HospitalQueuehttps://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/HospitalQueue)
 👉[Day-1 SmartShelf](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/SmartShelfhttps://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/SmartShelf)
 👉[Day-1 ZipZipMart ](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/ZipZipMart)
+👉[Day-1 EventManager](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/EventManager2)
+👉[Day-1 ExamCell](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/ExamCell)
+
+
+📅 Day 8 - Scenario-based(Sorting Algorithm) 
+👉[Day-2 RoboWarehouse](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/RoboWarehouse)
+👉[Day-2 CinemaHouse](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/CinemaHouse)
+
+
+
+📅 Day 9 - Scenario-based(Sorting Algorithm) 
+👉[Day-3 ArtExpo](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/ArtExpo)
+👉[Day-3 FleetManager](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/FleetManager)
+👉[Day-3 IceCream](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/IceCreamRush)
+👉[Day-3 SmartLibrary](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/SmartLibrary)
+
+
+📅 Day 8 - Scenario-based(Oops Scenario-based) 
+👉[Day-4 RoboWarehouse](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/RoboWarehouse)
+👉[Day-4 CinemaHouse](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/CinemaHouse)
 
