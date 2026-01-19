@@ -157,3 +157,10 @@
 👉[Day-4 Artify](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/seneriobased/SeneriobasedQuestions/src/day5/Artify)
 👉[Day-4 FoodLoop](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/seneriobased/SeneriobasedQuestions/src/day5/FoodLoop)
 👉[Day-4 SkillForge](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/seneriobased/SeneriobasedQuestions/src/day5/SkillForge)
+
+
+📅 Day 5 - Scenario-based(Oops Scenario-based) 
+👉[Day-5 RoboWarehouse](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/RoboWarehouse)
+👉[Day-5 CinemaHouse](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/CinemaHouse)
+
+
