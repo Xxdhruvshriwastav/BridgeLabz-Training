@@ -140,7 +140,7 @@ C:.
   - **Level2** Solve random values generated problems
 
 🔗 **Code Link:** <br>
-👉[Day 1 - String problems]()
+👉[Day 1 - String problems]( )
 
 ---
 
@@ -439,4 +439,6 @@ Code link
 📅 Day 8 - Scenario-based(Oops Scenario-based) 
 👉[Day-4 RoboWarehouse](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/RoboWarehouse)
 👉[Day-4 CinemaHouse](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/CinemaHouse)
+
+
 
