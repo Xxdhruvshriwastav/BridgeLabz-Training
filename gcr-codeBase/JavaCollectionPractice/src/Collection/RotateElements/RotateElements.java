@@ -18,7 +18,7 @@ public class RotateElements {
 		int pos = sc.nextInt();
 
 	        for (int i = 0; i < pos; i++) {
-	            int first = l.get(0);
+	            int first = l.get(0);  // dyanmaic hai isliye zero par shift ho jayega baar baar
 	            l.remove(0);
 	            l.add(first);
 	        }
