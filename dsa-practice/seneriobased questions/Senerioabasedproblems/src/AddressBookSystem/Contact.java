@@ -19,6 +19,9 @@ public class Contact {
 		this.email = email;
 		this.state = state;
 		this.zip = zip;
+		
+		
+		
 	}
 	
 }
