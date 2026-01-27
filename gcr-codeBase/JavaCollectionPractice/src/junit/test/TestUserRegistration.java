@@ -1,6 +1,9 @@
-package junit.AdvancedJunitTesting.userregistration;
+package junit.test;
 
 import org.junit.jupiter.api.Test;
+
+import junit.AdvancedJunitTesting.userregistration.UserRegistration;
+
 import org.junit.jupiter.api.DisplayName;
 
 import static org.junit.jupiter.api.Assertions.*;
