@@ -1,5 +1,8 @@
-package junit.BasicJunitTesting.calculator;
+package junit.test;
 import org.junit.jupiter.api.Test;
+
+import junit.BasicJunitTesting.calculator.Calculator;
+
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.AfterAll;
 import static org.junit.jupiter.api.Assertions.*;
