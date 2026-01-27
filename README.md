@@ -420,7 +420,7 @@ Code link
 👉[Day-1 HospitalQueue](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/HospitalQueuehttps://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/HospitalQueue)
 👉[Day-1 SmartShelf](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/SmartShelfhttps://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/SmartShelf)
 
-# Week 5 : Solved Scenario-based Problems and Data Structures
+# Week 5 : Solved Scenario-based Problems 
 
 👉[Day-1 ZipZipMart ](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/ZipZipMart)
 👉[Day-1 EventManager](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/dsa-practice/dsa-practice/seneriobased%20questions/Senerioabasedproblems/src/EventManager2)
@@ -458,8 +458,12 @@ Code link
 [QueueInterface](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-collections-practice/gcr-codeBase/JavaCollectionPractice/src/QueueInterface/GenerateBinary)
 
 
+ Week 5 : Solved some core java and advance java problems
 
+ 📅 Day 1 - regex [regex problems](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-collections-practice/gcr-codeBase/JavaCollectionPractice/src/regex/BasicRegexProblem)
 
+ 
+📅 Day 2 - regex [regex problems](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-collections-practice/gcr-codeBase/JavaCollectionPractice/src/reflection)
 
 
 
