@@ -1,4 +1,4 @@
-package annotations.animal;
+package reflection.animal;
 
 public class Animal {
 	public void makeSound() {
