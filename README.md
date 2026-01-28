@@ -455,6 +455,8 @@ Code link
 📅 Day 7 - Collection [Collection problems](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-collections-practice/gcr-codeBase/JavaCollectionPractice/src/Collection)
 
 [set](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-collections-practice/gcr-codeBase/JavaCollectionPractice/src/Set)
+
+
 [QueueInterface](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-collections-practice/gcr-codeBase/JavaCollectionPractice/src/QueueInterface/GenerateBinary)
 
 
@@ -466,4 +468,6 @@ Code link
 📅 Day 2 - regex [regex problems](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-collections-practice/gcr-codeBase/JavaCollectionPractice/src/reflection)
 
 
+ 📅 Day 2 - annotation [annotation problems](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-collections-practice/gcr-codeBase/JavaCollectionPractice/src/annotations)
 
+ 📅 Day 2 - reflection [reflection  problems]()
