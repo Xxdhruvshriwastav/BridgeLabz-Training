@@ -452,14 +452,14 @@ Code link
 
 
 
-📅 Day 7 - Collection [Collection problems](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-collections-practice/gcr-codeBase/JavaCollectionPractice/src/Collection)
+📅 Day 7 -  Collection problems(https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-collections-practice/gcr-codeBase/JavaCollectionPractice/src/Collection)
 
-[set](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-collections-practice/gcr-codeBase/JavaCollectionPractice/src/Set)
+[set][solved collections set problems](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-collections-practice/gcr-codeBase/JavaCollectionPractice/src/Set)
 
 
-/br
 
-[QueueInterface](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-collections-practice/gcr-codeBase/JavaCollectionPractice/src/QueueInterface/GenerateBinary)
+
+[QueueInterface problem solved ](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-collections-practice/gcr-codeBase/JavaCollectionPractice/src/QueueInterface/GenerateBinary)
 
 
  Week 5 : Solved some core java and advance java problems
