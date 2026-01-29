@@ -477,8 +477,8 @@ Code link
 
  📅 Day 3 - [java Io-stream-practice] (https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-iostreams-practice)
 
- 📅 Day 3 - [csv data ](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codeBase/iostreampractice/src/iostreampractice/iostreampractice/csv)
+ 📅 Day 3 - [csv data practice](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codeBase/iostreampractice/src/iostreampractice/iostreampractice/csv)
 
- 📅 Day 4 - [json data ](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codeBase/iostreampractice/src/iostreampractice/iostreampractice/json/practiceproblem)
+ 📅 Day 3 - [json data practice ](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codeBase/iostreampractice/src/iostreampractice/iostreampractice/json/practiceproblem)
 
  
