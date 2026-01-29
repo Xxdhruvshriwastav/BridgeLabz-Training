@@ -452,12 +452,14 @@ Code link
 
 
 
-📅 Day 7 - Collection [Collection problems](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-collections-practice/gcr-codeBase/JavaCollectionPractice/src/Collection)
+📅 Day 7 -  Collection problems(https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-collections-practice/gcr-codeBase/JavaCollectionPractice/src/Collection)
 
-[set](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-collections-practice/gcr-codeBase/JavaCollectionPractice/src/Set)
+[set][solved collections set problems](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-collections-practice/gcr-codeBase/JavaCollectionPractice/src/Set)
 
 
-[QueueInterface](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-collections-practice/gcr-codeBase/JavaCollectionPractice/src/QueueInterface/GenerateBinary)
+
+
+[QueueInterface problem solved ](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-collections-practice/gcr-codeBase/JavaCollectionPractice/src/QueueInterface/GenerateBinary)
 
 
  Week 5 : Solved some core java and advance java problems
@@ -470,4 +472,13 @@ Code link
 
  📅 Day 2 - annotation [annotation problems](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-collections-practice/gcr-codeBase/JavaCollectionPractice/src/annotations)
 
- 📅 Day 2 - reflection [reflection  problems]()
+ 📅 Day 2 - reflection [reflection  problems](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-collections-practice/gcr-codeBase/JavaCollectionPractice/src/reflection)
+
+
+ 📅 Day 3 - [java Io-stream-practice] (https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-iostreams-practice)
+
+ 📅 Day 3 - [csv data practice](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codeBase/iostreampractice/src/iostreampractice/iostreampractice/csv)
+
+ 📅 Day 3 - [json data practice ](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codeBase/iostreampractice/src/iostreampractice/iostreampractice/json/practiceproblem)
+
+ 
