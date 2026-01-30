@@ -10,6 +10,7 @@ import java.lang.annotation.ElementType;
 @Repeatable(BugReports.class)
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.METHOD)
+
 public @interface BugReport {
 
     String description();
