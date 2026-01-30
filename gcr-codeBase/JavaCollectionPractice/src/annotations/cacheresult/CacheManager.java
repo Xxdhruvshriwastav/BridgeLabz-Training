@@ -4,6 +4,7 @@ import java.lang.reflect.Method;
 import java.util.HashMap;
 
 public class CacheManager {
+	
     private static HashMap<String, Object> cache = new HashMap<>();
 
     // Executes method with caching support
