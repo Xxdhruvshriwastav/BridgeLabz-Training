@@ -481,4 +481,12 @@ Code link
 
  📅 Day 3 - [json data practice ](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codeBase/iostreampractice/src/iostreampractice/iostreampractice/json/practiceproblem)
 
- 
+📅 Day 4 - [Lmbda expression ](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java8-practice/gcr-codeBase/java8practiceproblem/src/lambdaexpressions)
+
+📅 Day 4 - [Functional Inyterface ](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java8-practice/gcr-codeBase/java8practiceproblem/src/functionalinterface)
+
+📅 Day 5 - [Stream Api] (https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java8-practice/gcr-codeBase/java8practiceproblem/src/streamapi)
+
+📅 Day 5 - [Collectors] (https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java8-practice/gcr-codeBase/java8practiceproblem/src/collectors)
+
+Day 6 -[java Workshop project on smartcity](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java8-practice/gcr-codeBase/java8practiceproblem/src/SmartCity)
