@@ -490,3 +490,9 @@ Code link
 📅 Day 5 - [Collectors] (https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java8-practice/gcr-codeBase/java8practiceproblem/src/collectors)
 
 Day 6 -[java Workshop project on smartcity](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/java8-practice/gcr-codeBase/java8practiceproblem/src/SmartCity)
+
+Day 7 -[Design Principal & Design Pattern] (https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/design-pattern-practice/gcr-codeBase/designpatternpracticeproblem/src/designpatternpracticeproblem)
+
+week 6 : Solved Scenario-based Problem and multithreading concepts
+📅 Day 1 - [MultiThreading](https://github.com/Xxdhruvshriwastav/BridgeLabz-Training/tree/design-pattern-practice/gcr-codeBase/designpatternpracticeproblem/src/multithreading)
+
