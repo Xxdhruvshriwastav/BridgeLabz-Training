@@ -1,5 +1,4 @@
 package multithreading.downloadmanager;
-import java.util.Iterator;
 import java.util.Random;
 
 // using thread class approach
